@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on Neuchâtel Fun Machine</title>
+    <link>http://localhost:1313/pages/</link>
+    <description>Recent content in Pages on Neuchâtel Fun Machine</description>
+    <generator>Hugo</generator>
+    <language>fr-ch</language>
+    <lastBuildDate>Wed, 12 Mar 2025 17:55:25 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/pages/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Nos résultats</title>
+      <link>http://localhost:1313/pages/home/</link>
+      <pubDate>Wed, 12 Mar 2025 17:55:25 +0100</pubDate>
+      <guid>http://localhost:1313/pages/home/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/pages/about/</link>
+      <pubDate>Wed, 12 Mar 2025 17:54:20 +0100</pubDate>
+      <guid>http://localhost:1313/pages/about/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
