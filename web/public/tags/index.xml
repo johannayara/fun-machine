@@ -4,7 +4,7 @@
     <title>Tags on Neuchâtel Fun Machine</title>
     <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on Neuchâtel Fun Machine</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>fr-ch</language>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>

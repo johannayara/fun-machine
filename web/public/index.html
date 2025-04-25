@@ -20,7 +20,7 @@
 
 
   
-  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/apple-touch-icon-144-precomposed.png">
+  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/favicon.png">
   <link rel="shortcut icon" href="/favicon.png">
 
   
@@ -39,14 +39,14 @@ crossorigin=""/>
     <div class="sidebar-about">
       <a href="http://localhost:1313/"><h1>Neuchâtel Fun Machine</h1></a>
       <p class="lead">
-      An elegant open source and mobile first theme for <a href="http://hugo.spf13.com">hugo</a> made by <a href="http://twitter.com/mdo">@mdo</a>. Originally made for Jekyll.
+        Une étude des métiers et salaires de la population lausannoise au fil du 20e siècle.
       </p>
     </div>
 
     <nav>
       <ul class="sidebar-nav">
-        <li><a href="http://localhost:1313/">Home</a> </li>
-        
+        <li><a href="http://localhost:1313/">Accueil</a> </li>
+        <li><a href="/pages/about/">A propos</a></li>
       </ul>
     </nav>
 
@@ -55,36 +55,46 @@ crossorigin=""/>
 </aside>
 
     <main class="content container">
-    <h1>Neuchâtel Fun Machine</h1>
-<p>Voici une super carte.</p>
-<div id="map"></div>
-<div class="slider-container">
-  <input type="range" min="0" max="100" value="50" class="slider" id="timeSlider">
-  <div id="sliderValue">50</div>
-</div>
-<style>
-  #map { height: 400px; }
-  .slider-container { 
-    margin-top: 10px; 
-    display: flex;
-    align-items: center;
-  }
-  .slider { 
-    width: 100%; 
-    margin-right: 10px;
-  }
-  #sliderValue {
-    min-width: 30px;
-  }
-</style>
-<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
-  integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
-  crossorigin="">
-</script>
-<script src="/leaflet-heat.js"></script>
-<script src="/map.js"></script>
+      <h1>Cartographie des revenus dans la ville de Lausanne</h1>
+      <h2>Inégalités à Lausanne au 20e siècle</h2>
+      <h2>Carte</h2>
+      <p>Voici une super carte.</p>
+
+      <div id="map"></div>
+      <div class="slider-container">
+        <input type="range" min="0" max="100" value="50" class="slider" id="timeSlider">
+        <div id="sliderValue">50</div>
+      </div>
+      <style>
+        #map { height: 400px; }
+        .slider-container { 
+          margin-top: 10px; 
+          display: flex;
+          align-items: center;
+        }
+        .slider { 
+          width: 100%; 
+          margin-right: 10px;
+        }
+        #sliderValue {
+          min-width: 30px;
+        }
+      </style>
+      <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+        integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
+        crossorigin="">
+      </script>
+      <script src="/leaflet-heat.js"></script>
+      <script src="/map.js"></script>
+
+      <h2>Méthodologie</h2>
+      
+      <h2>Données</h2>
+      <p><a href = "https://hsso.ch/"> Statistique historique de la Suisse</a>: données des salaires de divers corps de métiers entre 1890 et 1990</p>
+      <p>Almanach du commerce: années...</p>
+      <h2>Sources</h2>
     </main>
 
-    
+          
   </body>
 </html>

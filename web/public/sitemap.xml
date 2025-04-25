@@ -5,17 +5,8 @@
     <loc>http://localhost:1313/</loc>
     <lastmod>2025-03-12T17:55:25+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/pages/home/</loc>
-    <lastmod>2025-03-12T17:55:25+01:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/pages/</loc>
     <lastmod>2025-03-12T17:55:25+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/pages/about/</loc>
-    <lastmod>2025-03-12T17:54:20+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/my-first-post/</loc>
-    <lastmod>2025-03-12T17:20:41+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/</loc>
     <lastmod>2025-03-12T17:20:41+01:00</lastmod>
@@ -23,5 +14,8 @@
     <loc>http://localhost:1313/categories/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
+  </url>
+  </url><url>
+    <loc>http://localhost:1313/about/</loc>
   </url>
 </urlset>
