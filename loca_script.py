@@ -15,11 +15,11 @@ if not os.path.exists(ANNUAIRE_PATH):
 
 # List CSV files in directory
 csv_files = [os.path.join(ANNUAIRE_PATH, f) for f in os.listdir(ANNUAIRE_PATH) if f.endswith(".csv")]
-csv_files = ["table_1885.csv", "table_1901.csv", "table_1923.csv", "table_1951.csv"]
+csv_files = ["table_1885_clf.csv", "table_1901_clf.csv", "table_1923_clf.csv", "table_1951_clf.csv"]
 # Testing with 1885
 test_file = os.path.join(ANNUAIRE_PATH, csv_files[0])
 df = pd.read_csv(test_file, index_col=0)
-df = df.reset_index()
+#df = df.reset_index()
 
 # Geolocator with longer timeout
 geolocator = Nominatim(user_agent="fun_machine", timeout=10)
