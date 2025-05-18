@@ -29,7 +29,7 @@ OUTPUT_FILE = os.path.join(OUTPUT_PATH, "geocoded_" + os.path.basename(TARGET_FI
 
 # Load data
 file_path = os.path.join(ANNUAIRE_PATH, TARGET_FILE)
-df = pd.read_csv(file_path, index_col=0)[:15]
+df = pd.read_csv(file_path, index_col=0)
 
 # Geocoder setup
 geolocator = Nominatim(user_agent="fun_machine", timeout=10)
