@@ -29,7 +29,7 @@ OUTPUT_FILE = os.path.join(OUTPUT_PATH, "geocoded_" + os.path.basename(TARGET_FI
 
 # Load data
 file_path = os.path.join(ANNUAIRE_PATH, TARGET_FILE)
-df = pd.read_csv(file_path, index_col=0)
+df = pd.read_csv(file_path, index_col=0)[:15]
 
 # Geocoder setup
 geolocator = Nominatim(user_agent="fun_machine", timeout=10)
@@ -96,7 +96,7 @@ with open(CACHE_FILE, 'wb') as f:
 # Save results
 df['POS'] = positions
 df['COOR'] = df['POS'].apply(lambda loc: (loc.latitude, loc.longitude) if loc else None)
-df.to_csv(OUTPUT_NAME, index=False)
+df.to_csv(OUTPUT_FILE, index=False)
 
 # Log errors if any
 if errors:
