@@ -11,9 +11,9 @@ Le projet s’appuie sur des bibliothèques Python standard, ainsi que sur NumPy
 .
 ├── LICENSE
 ├── README.md
-├── classification
+├── classification/
 │   └── classification_results.csv
-├── data
+├── data/
 │   ├── SHS_TM.csv
 │   ├── SHS_TM.xlsx # original salary data 
 │   ├── all_metiers.csv
@@ -34,41 +34,41 @@ Le projet s’appuie sur des bibliothèques Python standard, ainsi que sur NumPy
 │   ├── table_1951.csv
 │   ├── table_1951_clf.csv
 │   └── test.csv
-├── data_processing
-│   ├── heatmap
+├── data_processing/
+│   ├── heatmap/
 │   │   ├── intensity_data.js
 │   │   ├── intensity_data.json
 │   │   └── prepare_data.py
-│   └── topjobs
+│   └── topjobs/
 │       └── process_jobs.py
-├── failed_attemps
+├── failed_attemps/
 │   ├── kmeans_metiers.ipynb
 │   └── mapping_job_salaire.ipynb
-├── geocoding # everything related to geocoding data 
-│   ├── cache
+├── geocoding/ # everything related to geocoding data 
+│   ├── cache/
 │   │   └── geocode_cache.pkl
-│   ├── data # non-geocoded data 
+│   ├── data/ # non-geocoded data 
 │   │   ├── table_1885_clf.csv
 │   │   ├── table_1901_clf.csv
 │   │   ├── table_1923_clf.csv
 │   │   └── table_1951_clf.csv
-│   ├── errors # error files representing points that we failed to locate 
+│   ├── errors/ # error files representing points that we failed to locate 
 │   │   ├── geocode_errors_1901.csv
 │   │   ├── geocode_errors_1923.csv
 │   │   └── geocode_errors_1951.csv
 │   ├── geolocate.py # script to geocode the data 
-│   └── out # geocoded data 
+│   └── out/ # geocoded data 
 │       ├── geocoded_table_1901_clf.csv
 │       ├── geocoded_table_1923_clf.csv
 │       └── geocoded_table_1951_clf.csv
-├── notebooks
+├── notebooks/
 │   ├── generate_answer.ipynb
 │   ├── map_job_salary.ipynb
 │   └── plot_salaries.ipynb
-├── plots
+├── plots/
 │   ├── avg.png
 │   └── sectors.png
-└── top_jobs
+└── top_jobs/
     ├── top_jobs1885.csv
     ├── top_jobs1901.csv
     ├── top_jobs1923.csv
