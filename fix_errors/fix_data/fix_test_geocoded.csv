@@ -1,0 +1,514 @@
+Unnamed: 0,job,job_clf,salaire,POS,COOR
+0,maréchal,réparations,107.18023088142006,,
+1,commis de banque,"banques,établissements financiers",140.40483154283166,,
+2,charretier,transports,122.2473142471457,"16, Rue de la Tour, Lausanne, District de Lausanne, Vaud, 1004, Schweiz/Suisse/Svizzera/Svizra","(46.5238425, 6.6287354)"
+3,"manœuvre,","journaliers,entretien",1.8124261769503367,"Avenue Montagibert 8 Lausanne, District de Lausanne, Vaud, Schweiz/Suisse/Svizzera/Svizra","(46.52393073553077, 6.656744589383335)"
+4,maçon,"construction,charpenterie",122.18080319478057,,
+5,"employé,","employés pour tous,célibataires",34.4527251251477,"Rue Pré-du-Marché 2 Lausanne, District de Lausanne, Vaud, Schweiz/Suisse/Svizzera/Svizra","(46.51963369545462, 6.656897696750376)"
+6,jardinier,"journaliers,entretien",1.8124261769503367,,
+7,"manœuvre,","journaliers,entretien",1.8124261769503367,"Rue du Grand-Pré 2a Lausanne, District de Lausanne, Vaud, Schweiz/Suisse/Svizzera/Svizra","(46.52936891549672, 6.65682536174722)"
+8,caissière,commerce de détail,119.25431689071397,"Avenue du Théâtre, Lausanne, District de Lausanne, Vaud, 1003, Schweiz/Suisse/Svizzera/Svizra","(46.5190107, 6.6350823)"
+9,couturière,"vêtements, lingerie,chaussures,literies",123.9766016086396,"Rue Cheneau-de-Bourg 1 Lausanne, District de Lausanne, Vaud, Schweiz/Suisse/Svizzera/Svizra","(46.52182904081607, 6.656954411151179)"
+10,"domestique,",employées pour le ménage et la ferme,25.340710951122148,"64, Avenue Gabriel-de-Rumine, Lausanne, District de Lausanne, Vaud, 1005, Schweiz/Suisse/Svizzera/Svizra","(46.5154133, 6.6444501)"
+11,dépôt de laiterie,produits alimentaires,130.76072894988488,"Avenue Georgette 1 Lausanne, District de Lausanne, Vaud, Schweiz/Suisse/Svizzera/Svizra","(46.53296257440171, 6.65689074155565)"
+12,blanchisseuse,employées pour le ménage et la ferme,25.340710951122148,"2, Rue du Pont, Lausanne, District de Lausanne, Vaud, 1003, Schweiz/Suisse/Svizzera/Svizra","(46.5215699, 6.6330974)"
+13,maçon,"construction,charpenterie",122.18080319478057,"Rue des Echelettes 12 Lausanne, District de Lausanne, Vaud, Schweiz/Suisse/Svizzera/Svizra","(46.55786834052, 6.682400128486887)"
+14,cocher,réparations,107.18023088142006,"16, Avenue Menthon, Lausanne, District de Lausanne, Vaud, 1005, Schweiz/Suisse/Svizzera/Svizra","(46.5234145, 6.6368264)"
+15,voyageur decommerce,commerce de détail,119.25431689071397,,
+16,facteur,transports,122.2473142471457,"Rue de la Pontaise 10 Lausanne, District de Lausanne, Vaud, Schweiz/Suisse/Svizzera/Svizra","(46.562140413566205, 6.682448522941598)"
+17,gypsiers-peintres,arts graphiques,128.4993531694698,,
+18,"domestique,",employées pour le ménage et la ferme,25.340710951122148,,
+19,remplaçant postal,administration publique,136.44368179783203,"Chemin des Tonnelles 6 Lausanne, District de Lausanne, Vaud, Schweiz/Suisse/Svizzera/Svizra","(46.54947474174132, 6.693466204302441)"
+20,gendarme,administration publique,136.44368179783203,"Rue Cité-Derrière, Lausanne, District de Lausanne, Vaud, 1014, Schweiz/Suisse/Svizzera/Svizra","(46.5236047, 6.6361671)"
+21,"cuisinière,","hôtellerie,restauration",96.39725007759232,"Rue du Midi, Lausanne, District de Lausanne, Vaud, 1003, Schweiz/Suisse/Svizzera/Svizra","(46.5184093, 6.6327201)"
+22,chancelier d'Elal,administration publique,136.44368179783203,,
+23,négocianten tissus,commerce de gros,126.9030879127062,"Rue Neuve, Lausanne, District de Lausanne, Vaud, 1003, Schweiz/Suisse/Svizzera/Svizra","(46.5232273, 6.6297676)"
+24,gérant de la Société Suisse des Commerçants,commerce de gros,126.9030879127062,,
+25,mécanic.-élect.,industrie des métaux,125.50635581303804,,
+26,facteur postal,transports,122.2473142471457,"Chemin des Tonnelles 6 Lausanne, District de Lausanne, Vaud, Schweiz/Suisse/Svizzera/Svizra","(46.52988713163072, 6.630140926322871)"
+27,imprimeur,arts graphiques,128.4993531694698,"17, Rue de la Pontaise, Lausanne, District de Lausanne, Vaud, 1002, Schweiz/Suisse/Svizzera/Svizra","(46.5295883, 6.6298209)"
+28,voyageur de commerce,commerce de détail,119.25431689071397,"22, Rue du Simplon, Lausanne, District de Lausanne, Vaud, 1006, Schweiz/Suisse/Svizzera/Svizra","(46.516026, 6.6300777)"
+29,Pléiades B,arts graphiques,128.4993531694698,,
+30,Administration des téléphones,"agences,locations,consultations",134.28581472523783,"Place Saint-François 7 Lausanne, District de Lausanne, Vaud, Schweiz/Suisse/Svizzera/Svizra","(46.53066727808447, 6.630189867219594)"
+31,du canton,administration publique,136.44368179783203,"Place du 14-Juin, Lausanne, District de Lausanne, Vaud, Schweiz/Suisse/Svizzera/Svizra","(46.5223443, 6.6307825)"
+32,fille de chambre,employées pour le ménage et la ferme,25.340710951122148,"Place Saint-François 4 Lausanne, District de Lausanne, Vaud, Schweiz/Suisse/Svizzera/Svizra","(46.528954368274704, 6.630261383282757)"
+33,femme de chamhre,employées pour le ménage et la ferme,25.340710951122148,"16, Place Saint-François, Lausanne, District de Lausanne, Vaud, 1003, Schweiz/Suisse/Svizzera/Svizra","(46.5194024, 6.6323394)"
+34,ménagère,employées pour le ménage et la ferme,25.340710951122148,"Escaliers du Marché, Lausanne, District de Lausanne, Vaud, 1003, Schweiz/Suisse/Svizzera/Svizra","(46.5219638, 6.633715)"
+35,cuisinière,"hôtellerie,restauration",96.39725007759232,"Le Capitole, 6, Avenue du Théâtre, Lausanne, District de Lausanne, Vaud, 1005, Schweiz/Suisse/Svizzera/Svizra","(46.5185518, 6.6357508)"
+36,femme de chambre,employées pour le ménage et la ferme,25.340710951122148,"2, Avenue Sainte-Luce, Lausanne, District de Lausanne, Vaud, 1003, Schweiz/Suisse/Svizzera/Svizra","(46.5180151, 6.6308706)"
+37,voiturier,transports,122.2473142471457,"2, Rue du Maupas, Lausanne, District de Lausanne, Vaud, 1004, Schweiz/Suisse/Svizzera/Svizra","(46.5239181, 6.6274648)"
+38,bottier,"vêtements, lingerie,chaussures,literies",123.9766016086396,"Boulevard de Grancy, Lausanne, District de Lausanne, Vaud, 1001, Schweiz/Suisse/Svizzera/Svizra","(46.5164811, 6.6255825)"
+39,cuisinière,"hôtellerie,restauration",96.39725007759232,"7, Rue du Midi, Lausanne, District de Lausanne, Vaud, 1003, Schweiz/Suisse/Svizzera/Svizra","(46.5184395, 6.6319284)"
+40,"domestique,",employées pour le ménage et la ferme,25.340710951122148,,
+41,boulanger,produits alimentaires,130.76072894988488,"Café du Grütli, 4, Place de la Palud, Lausanne, District de Lausanne, Vaud, 1003, Schweiz/Suisse/Svizzera/Svizra","(46.5217909, 6.6335811)"
+42,bouchère,produits alimentaires,130.76072894988488,"Rue du Petit-Saint-Jean 4 Lausanne, District de Lausanne, Vaud, Schweiz/Suisse/Svizzera/Svizra","(46.51355606532233, 6.630514602349948)"
+43,tailleur,"vêtements, lingerie,chaussures,literies",123.9766016086396,"Rue du Maupas 31 Lausanne, District de Lausanne, Vaud, Schweiz/Suisse/Svizzera/Svizra","(46.52386663777384, 6.6303750605164105)"
+44,"employé,","employés pour tous,célibataires",34.4527251251477,,
+45,"domestique,",employées pour le ménage et la ferme,25.340710951122148,"Chemin de Rovéréaz 59a Lausanne, District de Lausanne, Vaud, Schweiz/Suisse/Svizzera/Svizra","(46.53801497629762, 6.654149457888174)"
+46,"empi,', 'de bureau', '.",bureaux de consultation,128.42140391064694,"Rue Mauborget 1 Lausanne, District de Lausanne, Vaud, Schweiz/Suisse/Svizzera/Svizra","(46.523557316739584, 6.65437629135408)"
+47,"fabricant de café', 'de figues",produits alimentaires,130.76072894988488,"30, Rue du Maupas, Lausanne, District de Lausanne, Vaud, 1004, Schweiz/Suisse/Svizzera/Svizra","(46.5255236, 6.6249311)"
+48,couturière,"vêtements, lingerie,chaussures,literies",123.9766016086396,,
+49,employé au gaz,"gaz,eau,éléctricité",138.27647786714684,"30, Rue du Maupas, Lausanne, District de Lausanne, Vaud, 1004, Schweiz/Suisse/Svizzera/Svizra","(46.5255236, 6.6249311)"
+50,employé postal,administration publique,136.44368179783203,"Rue du Tunnel 20 Lausanne, District de Lausanne, Vaud, Schweiz/Suisse/Svizzera/Svizra","(46.523396811418046, 6.652553014946099)"
+51,facteur postal,transports,122.2473142471457,"Rue Mauborget, Lausanne, District de Lausanne, Vaud, 1003, Schweiz/Suisse/Svizzera/Svizra","(46.5227834, 6.6292684)"
+52,ménagère,employées pour le ménage et la ferme,25.340710951122148,"Rue Grand-Saint-Jean 20 Lausanne, District de Lausanne, Vaud, Schweiz/Suisse/Svizzera/Svizra","(46.535289697938445, 6.6524131242404)"
+53,charpentier,"construction,charpenterie",122.18080319478057,"2, Rue Centrale, Lausanne, District de Lausanne, Vaud, 1003, Schweiz/Suisse/Svizzera/Svizra","(46.5203526, 6.6318827)"
+54,serrurier,industrie des métaux,125.50635581303804,"Place de la Palud 22 Lausanne, District de Lausanne, Vaud, Schweiz/Suisse/Svizzera/Svizra","(46.525183689751145, 6.652568850853884)"
+55,"veuve,",employées pour le ménage et la ferme,25.340710951122148,"11, Place de la Palud, Lausanne, District de Lausanne, Vaud, 1003, Schweiz/Suisse/Svizzera/Svizra","(46.5222304, 6.6322093)"
+56,cafetier,"hôtellerie,restauration",96.39725007759232,"Rue des Deux-Marchés, Lausanne, District de Lausanne, Vaud, 1014, Schweiz/Suisse/Svizzera/Svizra","(46.5244057, 6.6336885)"
+57,couturière,"vêtements, lingerie,chaussures,literies",123.9766016086396,"Rue Cheneau-de-Bourg 9 Lausanne, District de Lausanne, Vaud, Schweiz/Suisse/Svizzera/Svizra","(46.53505443122528, 6.652425802574754)"
+58,arpenteur,"construction,charpenterie",122.18080319478057,,
+59,chauffeur,transports,122.2473142471457,"Rue du Simplon 45 Lausanne, District de Lausanne, Vaud, Schweiz/Suisse/Svizzera/Svizra","(46.51196733973429, 6.633639418510113)"
+60,tailleur,"vêtements, lingerie,chaussures,literies",123.9766016086396,"Rue Marterey 3 Lausanne, District de Lausanne, Vaud, Schweiz/Suisse/Svizzera/Svizra","(46.52031820124981, 6.63719592470013)"
+61,chauffeur,transports,122.2473142471457,,
+62,chef machiniste,industrie des métaux,125.50635581303804,,
+63,"domestique,",employées pour le ménage et la ferme,25.340710951122148,"Avenue des Alpes 1 Lausanne, District de Lausanne, Vaud, Schweiz/Suisse/Svizzera/Svizra","(46.512889878814335, 6.637415500896389)"
+64,ex-boucher,produits alimentaires,130.76072894988488,"Rue de la Barre, Lausanne, District de Lausanne, Vaud, 1014, Schweiz/Suisse/Svizzera/Svizra","(46.5257768, 6.6360129)"
+65,femme de chamhre,employées pour le ménage et la ferme,25.340710951122148,,
+66,employéde bureau,bureaux de consultation,128.42140391064694,"9, Ruelle Grand-Saint-Jean, Lausanne, District de Lausanne, Vaud, 1003, Schweiz/Suisse/Svizzera/Svizra","(46.5216448, 6.6315557)"
+67,rentier,"affaires immobilières,location",109.32383549904846,"3, Rue des Terreaux, Lausanne, District de Lausanne, Vaud, 1003, Schweiz/Suisse/Svizzera/Svizra","(46.5221914, 6.6285108)"
+68,"manœuvre,","journaliers,entretien",1.8124261769503367,"17, Rue Saint-Laurent, Lausanne, District de Lausanne, Vaud, 1003, Schweiz/Suisse/Svizzera/Svizra","(46.5224444, 6.6303732)"
+69,eoutur,industrie textile,125.8389110748638,,
+70,maçon,"construction,charpenterie",122.18080319478057,"3, Rue Mercerie, Lausanne, District de Lausanne, Vaud, 1003, Schweiz/Suisse/Svizzera/Svizra","(46.5218392, 6.6341719)"
+71,maçon,"construction,charpenterie",122.18080319478057,"Rue des Deux-Marchés, Lausanne, District de Lausanne, Vaud, 1014, Schweiz/Suisse/Svizzera/Svizra","(46.5244057, 6.6336885)"
+72,maçon,"construction,charpenterie",122.18080319478057,"13, Chemin Neuf, Les Planches, Grand-Mont, Le Mont-sur-Lausanne, District de Lausanne, Vaud, 1052, Schweiz/Suisse/Svizzera/Svizra","(46.5645112, 6.6482183)"
+73,négociant,commerce de gros,126.9030879127062,,
+74,"manœuvre,","journaliers,entretien",1.8124261769503367,"Rue du Pont 1 Lausanne, District de Lausanne, Vaud, Schweiz/Suisse/Svizzera/Svizra","(46.52962945536363, 6.650251779778053)"
+75,demoiselle de magasin,commerce de détail,119.25431689071397,"36, Boulevard de Grancy, Lausanne, District de Lausanne, Vaud, 1006, Schweiz/Suisse/Svizzera/Svizra","(46.5160563, 6.6276429)"
+76,"domestique,",employées pour le ménage et la ferme,25.340710951122148,"Rue Beau-Séjour, Lausanne, District de Lausanne, Vaud, 1006, Schweiz/Suisse/Svizzera/Svizra","(46.5178525, 6.6354905)"
+77,charpentier,"construction,charpenterie",122.18080319478057,,
+78,employé augaz,"gaz,eau,éléctricité",138.27647786714684,,
+79,entrepre-preneur,"agences,locations,consultations",134.28581472523783,"Avenue de Montbenon 4 Lausanne, District de Lausanne, Vaud, Schweiz/Suisse/Svizzera/Svizra","(46.521368131826726, 6.650440030682642)"
+80,voyageur de commerce,commerce de détail,119.25431689071397,"Rue des Terreaux, Lausanne, District de Lausanne, Vaud, 1002, Schweiz/Suisse/Svizzera/Svizra","(46.5226273, 6.6280228)"
+81,"manœuvre,","journaliers,entretien",1.8124261769503367,"Rue Cheneau-de-Bourg 6 Lausanne, District de Lausanne, Vaud, Schweiz/Suisse/Svizzera/Svizra","(46.526314033770326, 6.650431937552232)"
+82,employéde boulangerie,produits alimentaires,130.76072894988488,"Rue de la Barre, Lausanne, District de Lausanne, Vaud, 1014, Schweiz/Suisse/Svizzera/Svizra","(46.5257768, 6.6360129)"
+83,"chaull'"", 'eur",industrie chimique,144.86107205129667,"À côté de la plaque, 13, Rue Pré-du-Marché, Lausanne, District de Lausanne, Vaud, 1004, Schweiz/Suisse/Svizzera/Svizra","(46.5239189, 6.6297852)"
+84,confections pour enfants,"vêtements, lingerie,chaussures,literies",123.9766016086396,"Rue Neuve 9 Lausanne, District de Lausanne, Vaud, Schweiz/Suisse/Svizzera/Svizra","(46.54161426374502, 6.65025994221012)"
+85,rentière,"affaires immobilières,location",109.32383549904846,,
+86,"manœuvre,","journaliers,entretien",1.8124261769503367,,
+87,négoc,commerce de gros,126.9030879127062,,
+88,maçon,"construction,charpenterie",122.18080319478057,"Rue de la Pontaise 5 Lausanne, District de Lausanne, Vaud, Schweiz/Suisse/Svizzera/Svizra","(46.54039875261464, 6.643481491711896)"
+89,tailleur,"vêtements, lingerie,chaussures,literies",123.9766016086396,"Rue Cheneau-de-Bourg 9 Lausanne, District de Lausanne, Vaud, Schweiz/Suisse/Svizzera/Svizra","(46.51836788226922, 6.641758737959218)"
+90,cafetier,"hôtellerie,restauration",96.39725007759232,"Rue William-Haldimand 3 Lausanne, District de Lausanne, Vaud, Schweiz/Suisse/Svizzera/Svizra","(46.51617564504584, 6.6418926582871975)"
+91,journalier,"journaliers,entretien",1.8124261769503367,,
+92,"ménagère', 'Vernand",employées pour le ménage et la ferme,25.340710951122148,"Chemin des Crottes 1 Lausanne, District de Lausanne, Vaud, Schweiz/Suisse/Svizzera/Svizra","(46.51613538516282, 6.641988366633007)"
+93,"veuve deLucien', 'peintre",arts graphiques,128.4993531694698,,
+94,"facteurpostal,",transports,122.2473142471457,"Plantage du Vallon A, Lausanne, District de Lausanne, Vaud, Schweiz/Suisse/Svizzera/Svizra","(46.5263663, 6.6369168)"
+95,"manœuvre,","journaliers,entretien",1.8124261769503367,"19, Rue de la Borde, Lausanne, District de Lausanne, Vaud, 1018, Schweiz/Suisse/Svizzera/Svizra","(46.5285643, 6.6322629)"
+96,pensionnaire,"employés pour tous,célibataires",34.4527251251477,,
+97,maçon,"construction,charpenterie",122.18080319478057,"18, Rue Mercerie, Lausanne, District de Lausanne, Vaud, 1003, Schweiz/Suisse/Svizzera/Svizra","(46.5215409, 6.6343168)"
+98,charpentier,"construction,charpenterie",122.18080319478057,"Rue de la Pontaise, Lausanne, District de Lausanne, Vaud, 1018, Schweiz/Suisse/Svizzera/Svizra","(46.5300405, 6.6299203)"
+99,serrurier,industrie des métaux,125.50635581303804,"5, Place du Tunnel, Lausanne, District de Lausanne, Vaud, 1014, Schweiz/Suisse/Svizzera/Svizra","(46.5252938, 6.6351871)"
+100,ferblantier,industrie des métaux,125.50635581303804,,
+101,maçon,"construction,charpenterie",122.18080319478057,,
+102,"manœuvre,","journaliers,entretien",1.8124261769503367,"Chemin de Renens 12 Lausanne, District de Lausanne, Vaud, Schweiz/Suisse/Svizzera/Svizra","(46.5254030127461, 6.647892999309159)"
+102,"manœuvre,","journaliers,entretien",1.8124261769503367,"Chemin de Renens 12 Lausanne, District de Lausanne, Vaud, Schweiz/Suisse/Svizzera/Svizra","(46.52318856009208, 6.602826359639022)"
+103,maçon,"construction,charpenterie",122.18080319478057,"Plantage du Vallon A, Lausanne, District de Lausanne, Vaud, Schweiz/Suisse/Svizzera/Svizra","(46.5263663, 6.6369168)"
+104,maçon,"construction,charpenterie",122.18080319478057,"Rue Saint-Martin 4 Lausanne, District de Lausanne, Vaud, Schweiz/Suisse/Svizzera/Svizra","(46.53145182259044, 6.6478539621144845)"
+105,cimenteur,pierre et terre,129.4305079025819,"Rue Grand-Saint-Jean 20 Lausanne, District de Lausanne, Vaud, Schweiz/Suisse/Svizzera/Svizra","(46.54528723560573, 6.647695298722191)"
+106,représentant de commerce,commerce de détail,119.25431689071397,"26, Rue du Valentin, Lausanne, District de Lausanne, Vaud, 1004, Schweiz/Suisse/Svizzera/Svizra","(46.5253814, 6.6311653)"
+107,femme de chambre,employées pour le ménage et la ferme,25.340710951122148,,
+108,domestique,employées pour le ménage et la ferme,25.340710951122148,,
+109,notaire,"agences,locations,consultations",134.28581472523783,,
+110,rentière,"affaires immobilières,location",109.32383549904846,,
+111,ménagère,employées pour le ménage et la ferme,25.340710951122148,,
+112,rentier,"affaires immobilières,location",109.32383549904846,,
+113,"veuve,rentière",assurances privées,125.24031160357744,,
+114,"employé,","employés pour tous,célibataires",34.4527251251477,"Avenue d'Echallens 8 Lausanne, District de Lausanne, Vaud, Schweiz/Suisse/Svizzera/Svizra","(46.52319401654974, 6.658421451765468)"
+115,employé de bureau,bureaux de consultation,128.42140391064694,,
+116,cordonnier,"vêtements, lingerie,chaussures,literies",123.9766016086396,"22, Chemin du Pré-d'Yverdon, Épalinges, District de Lausanne, Vaud, 1066, Schweiz/Suisse/Svizzera/Svizra","(46.5430236, 6.673186)"
+117,journaliste-imprimeur,arts graphiques,128.4993531694698,,
+118,"manœuvre,","journaliers,entretien",1.8124261769503367,"Rue du Crêt 10 Lausanne, District de Lausanne, Vaud, Schweiz/Suisse/Svizzera/Svizra","(46.5330027979211, 6.658335197539598)"
+119,"manœuvre,","journaliers,entretien",1.8124261769503367,"19, Rue de la Borde, Lausanne, District de Lausanne, Vaud, 1018, Schweiz/Suisse/Svizzera/Svizra","(46.5285643, 6.6322629)"
+120,peintre enbâtiments,arts graphiques,128.4993531694698,,
+121,serrurier,industrie des métaux,125.50635581303804,"23, Rue du Maupas, Lausanne, District de Lausanne, Vaud, 1004, Schweiz/Suisse/Svizzera/Svizra","(46.5244843, 6.6247516)"
+122,hôtelière,"hôtellerie,restauration",96.39725007759232,"Rue du Petit-Saint-Jean 1 Lausanne, District de Lausanne, Vaud, Schweiz/Suisse/Svizzera/Svizra","(46.52314490565493, 6.602688884944865)"
+123,contre maître,administration publique,136.44368179783203,"Chemin de Renens 12 Lausanne, District de Lausanne, Vaud, Schweiz/Suisse/Svizzera/Svizra","(46.5254030127461, 6.647892999309159)"
+123,contre maître,administration publique,136.44368179783203,"Chemin de Renens 12 Lausanne, District de Lausanne, Vaud, Schweiz/Suisse/Svizzera/Svizra","(46.52318856009208, 6.602826359639022)"
+124,ferblantier,industrie des métaux,125.50635581303804,"28, Rue Pré-du-Marché, Lausanne, District de Lausanne, Vaud, 1003, Schweiz/Suisse/Svizzera/Svizra","(46.5243617, 6.6301476)"
+125,piqueuse,industrie textile,125.8389110748638,"Place Chauderon, Lausanne, District de Lausanne, Vaud, 1002, Schweiz/Suisse/Svizzera/Svizra","(46.5236084, 6.6245092)"
+126,bouclier,industrie des métaux,125.50635581303804,"9, Chemin des Neuf-Fontaines, Grand-Mont, Le Mont-sur-Lausanne, District de Lausanne, Vaud, 1052, Schweiz/Suisse/Svizzera/Svizra","(46.5588286, 6.6366446)"
+127,typographe,arts graphiques,128.4993531694698,"Rue des Deux-Marchés, Lausanne, District de Lausanne, Vaud, 1014, Schweiz/Suisse/Svizzera/Svizra","(46.5244057, 6.6336885)"
+128,épicier,commerce de détail,119.25431689071397,,
+129,imprimeur,arts graphiques,128.4993531694698,,
+130,imprimeurs,arts graphiques,128.4993531694698,,
+131,chez M. Ratto,"journaliers,entretien",1.8124261769503367,"Cour, Avenue Frédéric-César-de-La-Harpe, Lausanne, District de Lausanne, Vaud, 1001, Schweiz/Suisse/Svizzera/Svizra","(46.512583, 6.625823)"
+132,SUR LA VIE,assurances privées,125.24031160357744,,
+133,"conducteur des Wagons-lits,",transports,122.2473142471457,,
+134,pharmacien,industrie chimique,144.86107205129667,"Rue Saint-Pierre 1 Lausanne, District de Lausanne, Vaud, Schweiz/Suisse/Svizzera/Svizra","(46.52182199183501, 6.634922114008152)"
+134,pharmacien,industrie chimique,144.86107205129667,"Rue Saint-Pierre 1 Lausanne, District de Lausanne, Vaud, Schweiz/Suisse/Svizzera/Svizra","(46.527287941423694, 6.617463350203691)"
+134,pharmacien,industrie chimique,144.86107205129667,"Rue Saint-Pierre 1 Lausanne, District de Lausanne, Vaud, Schweiz/Suisse/Svizzera/Svizra","(46.525730241344085, 6.616256136684088)"
+135,"produitschimiques,",industrie chimique,144.86107205129667,"Rue Etraz, Lausanne, District de Lausanne, Vaud, 1005, Schweiz/Suisse/Svizzera/Svizra","(46.5193358, 6.6385998)"
+136,journalier,"journaliers,entretien",1.8124261769503367,"26, Chemin du Vallon, Cudrex, Bussigny, District de l'Ouest lausannois, Vaud, 1030, Schweiz/Suisse/Svizzera/Svizra","(46.5429178, 6.5535779)"
+137,institutrice,"agences,locations,consultations",134.28581472523783,"Avenue Villamont 1 Lausanne, District de Lausanne, Vaud, Schweiz/Suisse/Svizzera/Svizra","(46.5216188842846, 6.634938166538104)"
+138,demoiselle de magasin,commerce de détail,119.25431689071397,,
+139,"domestique,",employées pour le ménage et la ferme,25.340710951122148,"Rue Beau-Séjour 7bis Lausanne, District de Lausanne, Vaud, Schweiz/Suisse/Svizzera/Svizra","(46.5237098835054, 6.627779651065346)"
+140,maréchal,réparations,107.18023088142006,,
+141,rentière,"affaires immobilières,location",109.32383549904846,"Rue Pré-du-Marché, Lausanne, District de Lausanne, Vaud, 1003, Schweiz/Suisse/Svizzera/Svizra","(46.5240301, 6.6298216)"
+142,"domestique,",employées pour le ménage et la ferme,25.340710951122148,,
+143,"domestique,",employées pour le ménage et la ferme,25.340710951122148,"Rue du Bugnon 1 Lausanne, District de Lausanne, Vaud, Schweiz/Suisse/Svizzera/Svizra","(46.51588801596998, 6.627935805730115)"
+144,journalier,"journaliers,entretien",1.8124261769503367,,
+145,femme de chamhre,employées pour le ménage et la ferme,25.340710951122148,"2, Chemin de Longeraie, Lausanne, District de Lausanne, Vaud, 1006, Schweiz/Suisse/Svizzera/Svizra","(46.5157158, 6.6378771)"
+146,"domestique,",employées pour le ménage et la ferme,25.340710951122148,,
+147,agriculteur,employées pour le ménage et la ferme,25.340710951122148,,
+148,rentière,"affaires immobilières,location",109.32383549904846,"Rue Pré-du-Marché, Lausanne, District de Lausanne, Vaud, 1003, Schweiz/Suisse/Svizzera/Svizra","(46.5240301, 6.6298216)"
+149,relieur,industrie du papier,134.7513920917939,"Rue des Deux-Marchés, Lausanne, District de Lausanne, Vaud, 1014, Schweiz/Suisse/Svizzera/Svizra","(46.5244057, 6.6336885)"
+150,négociant,commerce de gros,126.9030879127062,,
+151,"épicerie', '. 1t.",produits alimentaires,130.76072894988488,"2, Rue Pépinet, Lausanne, District de Lausanne, Vaud, 1003, Schweiz/Suisse/Svizzera/Svizra","(46.5202337, 6.6321368)"
+152,caviste,commerce de détail,119.25431689071397,"2, Rue de la Barre, Lausanne, District de Lausanne, Vaud, 1014, Schweiz/Suisse/Svizzera/Svizra","(46.5248273, 6.6361119)"
+153,tapissier,"bois,liège,meubles",119.1878058383488,,
+154,pionnier,"construction,charpenterie",122.18080319478057,"Rue de la Pontaise 23 Lausanne, District de Lausanne, Vaud, Schweiz/Suisse/Svizzera/Svizra","(46.52220404621303, 6.637562580611684)"
+155,négociant,commerce de gros,126.9030879127062,"Boulevard de Grancy, Lausanne, District de Lausanne, Vaud, 1001, Schweiz/Suisse/Svizzera/Svizra","(46.5164811, 6.6255825)"
+156,artiste,arts graphiques,128.4993531694698,,
+157,ancien horticulteur,"journaliers,entretien",1.8124261769503367,"Avenue d'Ouchy, Lausanne, District de Lausanne, Vaud, 1006, Schweiz/Suisse/Svizzera/Svizra","(46.5129699, 6.6302553)"
+158,mécanicien,industrie des métaux,125.50635581303804,"Rue Saint-Etienne 5 Lausanne, District de Lausanne, Vaud, Schweiz/Suisse/Svizzera/Svizra","(46.51369015250001, 6.631495123095268)"
+159,peintre,arts graphiques,128.4993531694698,,
+160,employé au Département île Justice,administration publique,136.44368179783203,"4, Rue de la Barre, Lausanne, District de Lausanne, Vaud, 1014, Schweiz/Suisse/Svizzera/Svizra","(46.5250117, 6.6361041)"
+161,cuisinière,"hôtellerie,restauration",96.39725007759232,"1, Avenue de la Gare, Lausanne, District de Lausanne, Vaud, 1003, Schweiz/Suisse/Svizzera/Svizra","(46.516483, 6.6372833)"
+162,"domestique,",employées pour le ménage et la ferme,25.340710951122148,"11, Rue de la Borde, Lausanne, District de Lausanne, Vaud, 1014, Schweiz/Suisse/Svizzera/Svizra","(46.5280421, 6.6326511)"
+163,charretier,transports,122.2473142471457,"Chemin de Martheray, Cheseaux-sur-Lausanne, District de Lausanne, Vaud, 1033, Schweiz/Suisse/Svizzera/Svizra","(46.582302, 6.5960197)"
+164,employé demagasin,commerce de détail,119.25431689071397,"Rue de l'Industrie, Lausanne, District de Lausanne, Vaud, 1014, Schweiz/Suisse/Svizzera/Svizra","(46.5259799, 6.6386168)"
+165,"étudiant,","employés pour tous,célibataires",34.4527251251477,"Rue du Grand-Pont 12 Lausanne, District de Lausanne, Vaud, Schweiz/Suisse/Svizzera/Svizra","(46.54195277151507, 6.64435954941343)"
+166,journalière,"journalières,entretien",1.376778783958605,"Rue Saint-Roch 36 Lausanne, District de Lausanne, Vaud, Schweiz/Suisse/Svizzera/Svizra","(46.54466918957036, 6.644329590485521)"
+167,agent desûreté,administration publique,136.44368179783203,"3, Rue de l'Industrie, Lausanne, District de Lausanne, Vaud, 1014, Schweiz/Suisse/Svizzera/Svizra","(46.5257593, 6.6378561)"
+168,menuisier,"bois,liège,meubles",119.1878058383488,"Place du 14-Juin, Lausanne, District de Lausanne, Vaud, Schweiz/Suisse/Svizzera/Svizra","(46.5223443, 6.6307825)"
+169,cordonnier,"vêtements, lingerie,chaussures,literies",123.9766016086396,"Route de Cojonnex 29 Lausanne, District de Lausanne, Vaud, Schweiz/Suisse/Svizzera/Svizra","(46.52811810006794, 6.642524473317246)"
+170,maitresse depension,employées pour le ménage et la ferme,25.340710951122148,"12, Rue du Grand-Pont, Lausanne, District de Lausanne, Vaud, 1003, Schweiz/Suisse/Svizzera/Svizra","(46.5218007, 6.630284)"
+171,fonctionnaire aux douanes,administration publique,136.44368179783203,,
+172,jardinier,"journaliers,entretien",1.8124261769503367,"22, Rue de Bourg, Lausanne, District de Lausanne, Vaud, 1003, Schweiz/Suisse/Svizzera/Svizra","(46.5199749, 6.6356141)"
+173,caissière,commerce de détail,119.25431689071397,"Avenue de la Gare 9 Lausanne, District de Lausanne, Vaud, Schweiz/Suisse/Svizzera/Svizra","(46.52897988279538, 6.6321198426936325)"
+174,"gouvernante,",employées pour le ménage et la ferme,25.340710951122148,"Chemin de Martheray, Cheseaux-sur-Lausanne, District de Lausanne, Vaud, 1033, Schweiz/Suisse/Svizzera/Svizra","(46.582302, 6.5960197)"
+175,serrurier,industrie des métaux,125.50635581303804,"Rue du Petit-Saint-Jean, Lausanne, District de Lausanne, Vaud, 1003, Schweiz/Suisse/Svizzera/Svizra","(46.5211232, 6.6328671)"
+176,jardinier,"journaliers,entretien",1.8124261769503367,,
+177,employé postal,administration publique,136.44368179783203,,
+178,"employé,","employés pour tous,célibataires",34.4527251251477,"Chemin de Martheray, Cheseaux-sur-Lausanne, District de Lausanne, Vaud, 1033, Schweiz/Suisse/Svizzera/Svizra","(46.582302, 6.5960197)"
+179,négociant en cuirs,commerce de gros,126.9030879127062,"Rue Pré-du-Marché 2 Lausanne, District de Lausanne, Vaud, Schweiz/Suisse/Svizzera/Svizra","(46.51232752089174, 6.632381188969578)"
+180,entrepreneur,"agences,locations,consultations",134.28581472523783,"Chemin de Montmeillan, Lausanne, District de Lausanne, Vaud, 1011, Schweiz/Suisse/Svizzera/Svizra","(46.5303679, 6.6413705)"
+181,téléphoniste,"agences,locations,consultations",134.28581472523783,"1, Chemin de Longeraie, Lausanne, District de Lausanne, Vaud, 1006, Schweiz/Suisse/Svizzera/Svizra","(46.5156496, 6.638399)"
+182,maîtresse depension,employées pour le ménage et la ferme,25.340710951122148,"Chemin de Longeraie, Lausanne, District de Lausanne, Vaud, 1006, Schweiz/Suisse/Svizzera/Svizra","(46.5155535, 6.6379593)"
+183,stéréoty-peur,arts graphiques,128.4993531694698,"Chemin de Martheray, Cheseaux-sur-Lausanne, District de Lausanne, Vaud, 1033, Schweiz/Suisse/Svizzera/Svizra","(46.582302, 6.5960197)"
+184,"garde-malades,",employées pour le ménage et la ferme,25.340710951122148,"49, Boulevard de Grancy, Lausanne, District de Lausanne, Vaud, 1006, Schweiz/Suisse/Svizzera/Svizra","(46.5158406, 6.6250707)"
+185,ménagère,employées pour le ménage et la ferme,25.340710951122148,"Rue Saint-Roch 13 Lausanne, District de Lausanne, Vaud, Schweiz/Suisse/Svizzera/Svizra","(46.53342372941416, 6.632108884925135)"
+186,professeur.,"agences,locations,consultations",134.28581472523783,"2, Chemin de Longeraie, Lausanne, District de Lausanne, Vaud, 1006, Schweiz/Suisse/Svizzera/Svizra","(46.5157158, 6.6378771)"
+187,"employé .1.-S.,","employés pour tous,célibataires",34.4527251251477,"9, Rue Cheneau-de-Bourg, Lausanne, District de Lausanne, Vaud, 1003, Schweiz/Suisse/Svizzera/Svizra","(46.5205532, 6.6366336)"
+188,menuisier,"bois,liège,meubles",119.1878058383488,"Avenue de Béthusy 14 Lausanne, District de Lausanne, Vaud, Schweiz/Suisse/Svizzera/Svizra","(46.54153086199565, 6.632000196111036)"
+189,typographe,arts graphiques,128.4993531694698,,
+190,ASSURANCES SUR LA VIE,assurances privées,125.24031160357744,"2, Rue du Midi, Lausanne, District de Lausanne, Vaud, 1003, Schweiz/Suisse/Svizzera/Svizra","(46.5186672, 6.6316723)"
+191,employé postal,administration publique,136.44368179783203,"Rue des Glaciers 4 Lausanne, District de Lausanne, Vaud, Schweiz/Suisse/Svizzera/Svizra","(46.51801810699368, 6.632436875196293)"
+192,"veuve de G.-Louis,",employées pour le ménage et la ferme,25.340710951122148,,
+193,"domestique,",employées pour le ménage et la ferme,25.340710951122148,,
+194,ancienne institutrice,administration publique,136.44368179783203,,
+195,tailleur,"vêtements, lingerie,chaussures,literies",123.9766016086396,,
+196,Clos-Fleuri,"employés pour tous,célibataires",34.4527251251477,"Route d'Echallens, Romanel-sur-Lausanne, District de Lausanne, Vaud, 1032, Schweiz/Suisse/Svizzera/Svizra","(46.5638541, 6.6035801)"
+197,charpentier,"construction,charpenterie",122.18080319478057,"Promenade de la Solitude, Lausanne, District de Lausanne, Vaud, 1005, Schweiz/Suisse/Svizzera/Svizra","(46.5218971, 6.6385195)"
+198,"Aimé', 'charpentier","construction,charpenterie",122.18080319478057,"Plantage du Vallon A, Lausanne, District de Lausanne, Vaud, Schweiz/Suisse/Svizzera/Svizra","(46.5263663, 6.6369168)"
+199,charpentier,"construction,charpenterie",122.18080319478057,"13, Rue du Maupas, Lausanne, District de Lausanne, Vaud, 1004, Schweiz/Suisse/Svizzera/Svizra","(46.5244758, 6.6255741)"
+200,agriculteur,employées pour le ménage et la ferme,25.340710951122148,"Rue des Jardins 9 Lausanne, District de Lausanne, Vaud, Schweiz/Suisse/Svizzera/Svizra","(46.52619808923588, 6.63863544881925)"
+201,menuisier,"bois,liège,meubles",119.1878058383488,"Plantage du Vallon A, Lausanne, District de Lausanne, Vaud, Schweiz/Suisse/Svizzera/Svizra","(46.5263663, 6.6369168)"
+202,caviste,commerce de détail,119.25431689071397,,
+203,télégraph.,transports,122.2473142471457,"17, Boulevard de Grancy, Lausanne, District de Lausanne, Vaud, 1006, Schweiz/Suisse/Svizzera/Svizra","(46.5150969, 6.6299522)"
+204,charpentier,"construction,charpenterie",122.18080319478057,,
+205,ancien passementier,"vêtements, lingerie,chaussures,literies",123.9766016086396,,
+206,"journalière,","journalières,entretien",1.376778783958605,"36b, Rue du Maupas, Lausanne, District de Lausanne, Vaud, 1004, Schweiz/Suisse/Svizzera/Svizra","(46.5262454, 6.6242536)"
+207,rentière,"affaires immobilières,location",109.32383549904846,,
+208,maçon,"construction,charpenterie",122.18080319478057,,
+209,médecin-chirurgien,"agences,locations,consultations",134.28581472523783,,
+210,ferblantiers-lampistes,réparations,107.18023088142006,"Grancy, Chemin de la Ficelle, Lausanne, District de Lausanne, Vaud, 1001, Schweiz/Suisse/Svizzera/Svizra","(46.5149305, 6.628868)"
+211,charpentier,"construction,charpenterie",122.18080319478057,,
+212,femme dechambre,employées pour le ménage et la ferme,25.340710951122148,"39, Avenue d'Ouchy, Lausanne, District de Lausanne, Vaud, 1006, Schweiz/Suisse/Svizzera/Svizra","(46.5120215, 6.6299633)"
+213,"maitre ile pension', '-bandan.","hôtellerie,restauration",96.39725007759232,,
+214,cordonnier,"vêtements, lingerie,chaussures,literies",123.9766016086396,"27, Boulevard de Grancy, Lausanne, District de Lausanne, Vaud, 1006, Schweiz/Suisse/Svizzera/Svizra","(46.5156622, 6.6277777)"
+215,architecte,"construction,charpenterie",122.18080319478057,,
+216,"rédacteur,",arts graphiques,128.4993531694698,"Rue de la Pontaise 29 Lausanne, District de Lausanne, Vaud, Schweiz/Suisse/Svizzera/Svizra","(46.5203689756774, 6.63653795493172)"
+217,voiturier,transports,122.2473142471457,"77, Rue du Maupas, Lausanne, District de Lausanne, Vaud, 1004, Schweiz/Suisse/Svizzera/Svizra","(46.5262777, 6.6228339)"
+218,professeur,"agences,locations,consultations",134.28581472523783,"Rue de la Pontaise 29 Lausanne, District de Lausanne, Vaud, Schweiz/Suisse/Svizzera/Svizra","(46.53180588209872, 6.617286343029395)"
+219,"ré-gente,","employés pour tous,célibataires",34.4527251251477,"10, Rue William-Haldimand, Lausanne, District de Lausanne, Vaud, 1003, Schweiz/Suisse/Svizzera/Svizra","(46.5226134, 6.6310175)"
+220,"étudiant,","employés pour tous,célibataires",34.4527251251477,,
+221,architecte,"construction,charpenterie",122.18080319478057,,
+222,tanneur,industrie chimique,144.86107205129667,"Rue Chaucrau 14 Lausanne, District de Lausanne, Vaud, Schweiz/Suisse/Svizzera/Svizra","(46.51815540334832, 6.617561340209617)"
+223,fille de lingerie,"vêtements, lingerie,chaussures,literies",123.9766016086396,,
+224,journalier,"journaliers,entretien",1.8124261769503367,"Rue de la Pontaise, Lausanne, District de Lausanne, Vaud, 1018, Schweiz/Suisse/Svizzera/Svizra","(46.5300405, 6.6299203)"
+225,"cocher', '-gibert",industrie textile,125.8389110748638,,
+226,"veuve d’Alphonse', 'charretier",transports,122.2473142471457,"3, Rue du Jura, Bussigny, District de l'Ouest lausannois, Vaud, 1030, Schweiz/Suisse/Svizzera/Svizra","(46.5520225, 6.5513862)"
+227,"manœuvre,","journaliers,entretien",1.8124261769503367,"17, Rue Saint-Laurent, Lausanne, District de Lausanne, Vaud, 1003, Schweiz/Suisse/Svizzera/Svizra","(46.5224444, 6.6303732)"
+228,"domestique,",employées pour le ménage et la ferme,25.340710951122148,"2, Rue du Maupas, Lausanne, District de Lausanne, Vaud, 1004, Schweiz/Suisse/Svizzera/Svizra","(46.5239181, 6.6274648)"
+229,"coiffeur', 'Hourg,21.",commerce de détail,119.25431689071397,"Rue Centrale, Lausanne, District de Lausanne, Vaud, 1003, Schweiz/Suisse/Svizzera/Svizra","(46.5205801, 6.6319889)"
+230,"employé,","employés pour tous,célibataires",34.4527251251477,"Rue Saint-François 1 Lausanne, District de Lausanne, Vaud, Schweiz/Suisse/Svizzera/Svizra","(46.53594855386577, 6.6173310966747625)"
+231,cuisinière,"hôtellerie,restauration",96.39725007759232,"Rue Saint-Pierre 1 Lausanne, District de Lausanne, Vaud, Schweiz/Suisse/Svizzera/Svizra","(46.52182199183501, 6.634922114008152)"
+231,cuisinière,"hôtellerie,restauration",96.39725007759232,"Rue Saint-Pierre 1 Lausanne, District de Lausanne, Vaud, Schweiz/Suisse/Svizzera/Svizra","(46.527287941423694, 6.617463350203691)"
+231,cuisinière,"hôtellerie,restauration",96.39725007759232,"Rue Saint-Pierre 1 Lausanne, District de Lausanne, Vaud, Schweiz/Suisse/Svizzera/Svizra","(46.525730241344085, 6.616256136684088)"
+232,laitier,produits alimentaires,130.76072894988488,"Place Saint-François 13 Lausanne, District de Lausanne, Vaud, Schweiz/Suisse/Svizzera/Svizra","(46.517439873064326, 6.617614938579245)"
+233,chauffeur,transports,122.2473142471457,,
+234,tailleur de pierres,pierre et terre,129.4305079025819,"21, Rue du Maupas, Lausanne, District de Lausanne, Vaud, 1004, Schweiz/Suisse/Svizzera/Svizra","(46.5249829, 6.6253244)"
+235,serrurier,industrie des métaux,125.50635581303804,,
+236,"serrurier-appa', '-reilleur",industrie des métaux,125.50635581303804,"2, Rue de la Pontaise, Lausanne, District de Lausanne, Vaud, 1002, Schweiz/Suisse/Svizzera/Svizra","(46.5285146, 6.6308835)"
+237,conducteur d’omnibus,transports,122.2473142471457,"44, Rue du Maupas, Lausanne, District de Lausanne, Vaud, 1002, Schweiz/Suisse/Svizzera/Svizra","(46.5262968, 6.6234822)"
+238,tailleur,"vêtements, lingerie,chaussures,literies",123.9766016086396,"Rue Grand-Saint-Jean, Lausanne, District de Lausanne, Vaud, 1003, Schweiz/Suisse/Svizzera/Svizra","(46.5213634, 6.6315616)"
+239,ménagère,employées pour le ménage et la ferme,25.340710951122148,"Rue Etraz, Lausanne, District de Lausanne, Vaud, 1005, Schweiz/Suisse/Svizzera/Svizra","(46.5193358, 6.6385998)"
+240,peintre,arts graphiques,128.4993531694698,"Rue Traversière 3 Lausanne, District de Lausanne, Vaud, Schweiz/Suisse/Svizzera/Svizra","(46.53097967276285, 6.617569815528947)"
+241,charretier,transports,122.2473142471457,"38, Avenue d'Ouchy, Lausanne, District de Lausanne, Vaud, 1006, Schweiz/Suisse/Svizzera/Svizra","(46.5118486, 6.6291919)"
+242,ouvrière,industrie textile,125.8389110748638,"Rue Madeleine 6 Lausanne, District de Lausanne, Vaud, Schweiz/Suisse/Svizzera/Svizra","(46.52433395507242, 6.640131270172291)"
+243,cordonnier,"vêtements, lingerie,chaussures,literies",123.9766016086396,"14, Rue Madeleine, Lausanne, District de Lausanne, Vaud, 1003, Schweiz/Suisse/Svizzera/Svizra","(46.5226163, 6.6331203)"
+244,cordonnier,"vêtements, lingerie,chaussures,literies",123.9766016086396,"Chemin de Martheray, Cheseaux-sur-Lausanne, District de Lausanne, Vaud, 1033, Schweiz/Suisse/Svizzera/Svizra","(46.582302, 6.5960197)"
+245,ménagère,employées pour le ménage et la ferme,25.340710951122148,"Escaliers du Marché 7 Lausanne, District de Lausanne, Vaud, Schweiz/Suisse/Svizzera/Svizra","(46.54089610058102, 6.641719522578199)"
+246,"manœuvre,","journaliers,entretien",1.8124261769503367,"Rue Cité-Devant, Lausanne, District de Lausanne, Vaud, 1014, Schweiz/Suisse/Svizzera/Svizra","(46.523581, 6.6352987)"
+247,ingénieur,industrie chimique,144.86107205129667,,
+248,"contrôleur Wagons-lits,",transports,122.2473142471457,,
+249,cimenteur,pierre et terre,129.4305079025819,,
+250,maçon,"construction,charpenterie",122.18080319478057,"5, Chemin Neuf, Les Planches, Grand-Mont, Le Mont-sur-Lausanne, District de Lausanne, Vaud, 1052, Schweiz/Suisse/Svizzera/Svizra","(46.5640717, 6.648479)"
+251,maçon,"construction,charpenterie",122.18080319478057,"Rue du Petit-Saint-Jean, Lausanne, District de Lausanne, Vaud, 1003, Schweiz/Suisse/Svizzera/Svizra","(46.5211232, 6.6328671)"
+252,maçon,"construction,charpenterie",122.18080319478057,,
+253,gypsier,réparations,107.18023088142006,"1, Rue de la Barre, Lausanne, District de Lausanne, Vaud, 1014, Schweiz/Suisse/Svizzera/Svizra","(46.5254304, 6.6356704)"
+254,maçon,"construction,charpenterie",122.18080319478057,,
+255,gypsiers -,transports,122.2473142471457,"Chemin du Petit-Château 5 Lausanne, District de Lausanne, Vaud, Schweiz/Suisse/Svizzera/Svizra","(46.52157356237662, 6.64496103820153)"
+256,fille de chambre,employées pour le ménage et la ferme,25.340710951122148,,
+257,gypsier,réparations,107.18023088142006,,
+258,maçon,"construction,charpenterie",122.18080319478057,,
+259,relieur,industrie du papier,134.7513920917939,,
+260,caissier,commerce de détail,119.25431689071397,"Avenue Montagibert 8 Lausanne, District de Lausanne, Vaud, Schweiz/Suisse/Svizzera/Svizra","(46.52127972983654, 6.6316253595081545)"
+261,margeur,industrie du papier,134.7513920917939,"Rue de la Pontaise 13 Lausanne, District de Lausanne, Vaud, Schweiz/Suisse/Svizzera/Svizra","(46.53534649774424, 6.663934266842054)"
+262,ménagère,employées pour le ménage et la ferme,25.340710951122148,"8, Rue du Maupas, Lausanne, District de Lausanne, Vaud, 1004, Schweiz/Suisse/Svizzera/Svizra","(46.5245501, 6.6273067)"
+263,"employé,","employés pour tous,célibataires",34.4527251251477,"Rue Saint-Laurent 12 Lausanne, District de Lausanne, Vaud, Schweiz/Suisse/Svizzera/Svizra","(46.52918767356241, 6.646800832676596)"
+264,charretier,transports,122.2473142471457,"8, Rue Cité-Derrière, Lausanne, District de Lausanne, Vaud, 1005, Schweiz/Suisse/Svizzera/Svizra","(46.5231251, 6.6360189)"
+265,typographe,arts graphiques,128.4993531694698,"Lausanne, District de Lausanne, Vaud, Schweiz/Suisse/Svizzera/Svizra","(46.5218269, 6.6327025)"
+266,charretier,transports,122.2473142471457,,
+267,"las', 'représentant du Gouvernementdu",administration publique,136.44368179783203,"Avenue Louis-Agassiz, Lausanne, District de Lausanne, Vaud, 1003, Schweiz/Suisse/Svizzera/Svizra","(46.5183165, 6.6316369)"
+268,négociant,commerce de gros,126.9030879127062,"34, Avenue Gabriel-de-Rumine, Lausanne, District de Lausanne, Vaud, 1005, Schweiz/Suisse/Svizzera/Svizra","(46.5161007, 6.6420061)"
+269,"veuve d'Auguste"", 'fontainier","journalières,entretien",1.376778783958605,"Cycles Ricca, 15, Rue des Deux-Marchés, Lausanne, District de Lausanne, Vaud, 1005, Schweiz/Suisse/Svizzera/Svizra","(46.5250694, 6.6339145)"
+270,"juge,",administration publique,136.44368179783203,"Chemin des Epinettes 3 Lausanne, District de Lausanne, Vaud, Schweiz/Suisse/Svizzera/Svizra","(46.5370653414054, 6.646785881174752)"
+271,tourneur,industrie des métaux,125.50635581303804,"Promenade de la Solitude, Lausanne, District de Lausanne, Vaud, 1005, Schweiz/Suisse/Svizzera/Svizra","(46.5218971, 6.6385195)"
+272,sculpteur,arts graphiques,128.4993531694698,"Rue Louis-Auguste-Curtat, Lausanne, District de Lausanne, Vaud, 1003, Schweiz/Suisse/Svizzera/Svizra","(46.5221409, 6.6355992)"
+273,"étudiant,","employés pour tous,célibataires",34.4527251251477,"Place Chauderon 23 Lausanne, District de Lausanne, Vaud, Schweiz/Suisse/Svizzera/Svizra","(46.53981381142019, 6.643724216709492)"
+274,"manœuvre,","journaliers,entretien",1.8124261769503367,"9, Chemin du Grand-Pré, Épalinges, District de Lausanne, Vaud, 1066, Schweiz/Suisse/Svizzera/Svizra","(46.5441005, 6.6533225)"
+275,bouvier,vachers célibataires,42.9661398278869,"31, Rue de la Borde, Lausanne, District de Lausanne, Vaud, 1018, Schweiz/Suisse/Svizzera/Svizra","(46.5296033, 6.6317587)"
+276,"quartier général', 'Solitude,",administration publique,136.44368179783203,"Rue Saint-Martin 10 Lausanne, District de Lausanne, Vaud, Schweiz/Suisse/Svizzera/Svizra","(46.52207162311038, 6.644068286134893)"
+277,"cordonnier', 'ni.","vêtements, lingerie,chaussures,literies",123.9766016086396,"Rue Louis-Auguste-Curtat, Lausanne, District de Lausanne, Vaud, 1003, Schweiz/Suisse/Svizzera/Svizra","(46.5221409, 6.6355992)"
+278,chaudronnier,industrie des métaux,125.50635581303804,"Chemin de Montmeillan 6 Lausanne, District de Lausanne, Vaud, Schweiz/Suisse/Svizzera/Svizra","(46.54006448374816, 6.626289447819618)"
+279,"employé,","employés pour tous,célibataires",34.4527251251477,,
+280,coiffeur,commerce de détail,119.25431689071397,,
+281,"propriétaire,","affaires immobilières,location",109.32383549904846,,
+282,ménagère,employées pour le ménage et la ferme,25.340710951122148,,
+283,"employé .I.-S.,",administration publique,136.44368179783203,"10, Rue du Simplon, Lausanne, District de Lausanne, Vaud, 1006, Schweiz/Suisse/Svizzera/Svizra","(46.5156915, 6.631181)"
+284,"comptable,",bureaux de consultation,128.42140391064694,"Rue de la Pontaise 8 Lausanne, District de Lausanne, Vaud, Schweiz/Suisse/Svizzera/Svizra","(46.51422140182213, 6.648789534245915)"
+285,instituteur,"agences,locations,consultations",134.28581472523783,"Halle 15, 15, Avenue de Sévelin, Lausanne, District de Lausanne, Vaud, 1004, Schweiz/Suisse/Svizzera/Svizra","(46.5240047, 6.6148142)"
+286,"veuve,",employées pour le ménage et la ferme,25.340710951122148,"Chemin de Martheray, Cheseaux-sur-Lausanne, District de Lausanne, Vaud, 1033, Schweiz/Suisse/Svizzera/Svizra","(46.582302, 6.5960197)"
+287,mécan.,industrie des métaux,125.50635581303804,"Rue Pré-du-Marché, Lausanne, District de Lausanne, Vaud, 1003, Schweiz/Suisse/Svizzera/Svizra","(46.5240301, 6.6298216)"
+288,menuisier,"bois,liège,meubles",119.1878058383488,"Chemin de Couvaloup 13 Lausanne, District de Lausanne, Vaud, Schweiz/Suisse/Svizzera/Svizra","(46.537350033057045, 6.648501410361622)"
+289,"papierspeints,",industrie du papier,134.7513920917939,"Rue de la Pontaise, Lausanne, District de Lausanne, Vaud, 1018, Schweiz/Suisse/Svizzera/Svizra","(46.5303502, 6.6297757)"
+290,"employé,","employés pour tous,célibataires",34.4527251251477,"6, Rue Saint-Roch, Lausanne, District de Lausanne, Vaud, 1004, Schweiz/Suisse/Svizzera/Svizra","(46.5245277, 6.6288831)"
+291,"domestique,",employées pour le ménage et la ferme,25.340710951122148,,
+292,tailleur,"vêtements, lingerie,chaussures,literies",123.9766016086396,"Rue Pré-du-Marché, Lausanne, District de Lausanne, Vaud, 1003, Schweiz/Suisse/Svizzera/Svizra","(46.5240301, 6.6298216)"
+293,négociant,commerce de gros,126.9030879127062,,
+294,cafetier,"hôtellerie,restauration",96.39725007759232,"Rue Pré-du-Marché, Lausanne, District de Lausanne, Vaud, 1003, Schweiz/Suisse/Svizzera/Svizra","(46.5240301, 6.6298216)"
+295,négociant,commerce de gros,126.9030879127062,,
+296,compositeur typographe,arts graphiques,128.4993531694698,,
+297,négociant,commerce de gros,126.9030879127062,,
+298,"manœuvre,","journaliers,entretien",1.8124261769503367,"Chemin François-Louis-Renou, Lausanne, District de Lausanne, Vaud, 1014, Schweiz/Suisse/Svizzera/Svizra","(46.5233999, 6.6376565)"
+299,"manœuvre,","journaliers,entretien",1.8124261769503367,"13, Chemin Neuf, Les Planches, Grand-Mont, Le Mont-sur-Lausanne, District de Lausanne, Vaud, 1052, Schweiz/Suisse/Svizzera/Svizra","(46.5645112, 6.6482183)"
+300,directrice de pension,"hôtellerie,restauration",96.39725007759232,,
+301,charretier,transports,122.2473142471457,,
+302,"volontaire,","agences,locations,consultations",134.28581472523783,,
+303,"dame,directrice",employées pour le ménage et la ferme,25.340710951122148,,
+304,"directeur,",administration publique,136.44368179783203,"Rue des Echelettes 7 Lausanne, District de Lausanne, Vaud, Schweiz/Suisse/Svizzera/Svizra","(46.52697281548776, 6.648032420772038)"
+305,charretier,transports,122.2473142471457,"Plantage du Vallon A, Lausanne, District de Lausanne, Vaud, Schweiz/Suisse/Svizzera/Svizra","(46.5263663, 6.6369168)"
+306,ménagère,employées pour le ménage et la ferme,25.340710951122148,"16, Rue de Bourg, Lausanne, District de Lausanne, Vaud, 1003, Schweiz/Suisse/Svizzera/Svizra","(46.5199939, 6.6351596)"
+307,monteur de boites,"bois,liège,meubles",119.1878058383488,,
+308,aviculteur,employées pour le ménage et la ferme,25.340710951122148,"Rue Saint-Pierre 2 Lausanne, District de Lausanne, Vaud, Schweiz/Suisse/Svizzera/Svizra","(46.52121969416373, 6.639912351471256)"
+309,veuve d'Henri,employées pour le ménage et la ferme,25.340710951122148,"Avenue du Léman 2 Lausanne, District de Lausanne, Vaud, Schweiz/Suisse/Svizzera/Svizra","(46.53516749391293, 6.635019181246311)"
+310,maçon,"construction,charpenterie",122.18080319478057,"6, Rue Chaucrau, Lausanne, District de Lausanne, Vaud, 1003, Schweiz/Suisse/Svizzera/Svizra","(46.5227652, 6.6309817)"
+311,juge fédéral,administration publique,136.44368179783203,,
+312,maçon,"construction,charpenterie",122.18080319478057,"21, Rue de la Borde, Lausanne, District de Lausanne, Vaud, 1014, Schweiz/Suisse/Svizzera/Svizra","(46.5287304, 6.6322273)"
+313,maçon,"construction,charpenterie",122.18080319478057,"Chemin de Martheray, Cheseaux-sur-Lausanne, District de Lausanne, Vaud, 1033, Schweiz/Suisse/Svizzera/Svizra","(46.582302, 6.5960197)"
+314,ingénieur,industrie chimique,144.86107205129667,,
+315,agronome,employées pour le ménage et la ferme,25.340710951122148,,
+316,"manœuvre,","journaliers,entretien",1.8124261769503367,"Lausanne, District de Lausanne, Vaud, Schweiz/Suisse/Svizzera/Svizra","(46.5218269, 6.6327025)"
+317,"domestique,",employées pour le ménage et la ferme,25.340710951122148,,
+318,tricoteuse,industrie textile,125.8389110748638,"Rue Cité-Derrière, Lausanne, District de Lausanne, Vaud, 1014, Schweiz/Suisse/Svizzera/Svizra","(46.5236047, 6.6361671)"
+319,élève garde-malades,employées pour le ménage et la ferme,25.340710951122148,"Chemin Vermont 24 Lausanne, District de Lausanne, Vaud, Schweiz/Suisse/Svizzera/Svizra","(46.52660178484494, 6.610986121623812)"
+320,piqueuse,industrie textile,125.8389110748638,"Rue Cité-Derrière, Lausanne, District de Lausanne, Vaud, 1014, Schweiz/Suisse/Svizzera/Svizra","(46.5236047, 6.6361671)"
+321,plâtrier,"construction,charpenterie",122.18080319478057,"Département de la Formation, de la Jeunesse et de la Culture, 8, Rue de la Barre, Lausanne, District de Lausanne, Vaud, 1014, Schweiz/Suisse/Svizzera/Svizra","(46.5253169, 6.6360657)"
+322,"commisjostâl,","employés pour tous,célibataires",34.4527251251477,"Chemin de Villard 3 Lausanne, District de Lausanne, Vaud, Schweiz/Suisse/Svizzera/Svizra","(46.52019996290429, 6.6110898592078655)"
+323,"journalière,","journalières,entretien",1.376778783958605,"Rue Cité-Derrière, Lausanne, District de Lausanne, Vaud, 1014, Schweiz/Suisse/Svizzera/Svizra","(46.5236047, 6.6361671)"
+324,"manœuvre ,","journaliers,entretien",1.8124261769503367,"Rue du Vallon 35 Lausanne, District de Lausanne, Vaud, Schweiz/Suisse/Svizzera/Svizra","(46.51716182743302, 6.611212119098987)"
+325,"employépostal,",administration publique,136.44368179783203,,
+326,ferblantier,industrie des métaux,125.50635581303804,,
+327,"Jaques', 'horloger",horlogerie,124.70822318465623,,
+328,rentière,"affaires immobilières,location",109.32383549904846,"2, Avenue des Alpes, Lausanne, District de Lausanne, Vaud, 1006, Schweiz/Suisse/Svizzera/Svizra","(46.514756, 6.6368401)"
+329,garçon de bureau,bureaux de consultation,128.42140391064694,"Rue Pépinet 5 Lausanne, District de Lausanne, Vaud, Schweiz/Suisse/Svizzera/Svizra","(46.51216310289742, 6.633246506973324)"
+330,"domestique,",employées pour le ménage et la ferme,25.340710951122148,"Rue du Midi 9 Lausanne, District de Lausanne, Vaud, Schweiz/Suisse/Svizzera/Svizra","(46.52495827447173, 6.633067723642359)"
+331,employé au gaz,"gaz,eau,éléctricité",138.27647786714684,,
+332,cuisinière,"hôtellerie,restauration",96.39725007759232,"22, Rue Saint-Laurent, Lausanne, District de Lausanne, Vaud, 1003, Schweiz/Suisse/Svizzera/Svizra","(46.5225079, 6.6305147)"
+333,chefd'iuslitut,administration publique,136.44368179783203,,
+334,employé de banque,"banques,établissements financiers",140.40483154283166,"3, Rue de la Louve, Lausanne, District de Lausanne, Vaud, 1003, Schweiz/Suisse/Svizzera/Svizra","(46.5220171, 6.6319735)"
+335,ancien pasteur,administration publique,136.44368179783203,"5, Avenue de Beaulieu, Lausanne, District de Lausanne, Vaud, 1004, Schweiz/Suisse/Svizzera/Svizra","(46.5241111, 6.6248619)"
+336,"employé,","employés pour tous,célibataires",34.4527251251477,,
+337,"gouvernante,",employées pour le ménage et la ferme,25.340710951122148,"53, Avenue Gabriel-de-Rumine, Lausanne, District de Lausanne, Vaud, 1005, Schweiz/Suisse/Svizzera/Svizra","(46.5158808, 6.6452852)"
+338,coiffeur,commerce de détail,119.25431689071397,"Chemin de Martheray, Cheseaux-sur-Lausanne, District de Lausanne, Vaud, 1033, Schweiz/Suisse/Svizzera/Svizra","(46.582302, 6.5960197)"
+339,boulanger,produits alimentaires,130.76072894988488,"Rue de la Pontaise 42 Lausanne, District de Lausanne, Vaud, Schweiz/Suisse/Svizzera/Svizra","(46.55415414630128, 6.696264676275719)"
+340,boulanger,produits alimentaires,130.76072894988488,,
+341,café-. chocolat,produits alimentaires,130.76072894988488,,
+342,"manœuvre,","journaliers,entretien",1.8124261769503367,,
+343,couturière,"vêtements, lingerie,chaussures,literies",123.9766016086396,"Rue de Bourg 24 Lausanne, District de Lausanne, Vaud, Schweiz/Suisse/Svizzera/Svizra","(46.54133330224566, 6.650374337088783)"
+344,"employée,",employées pour le ménage et la ferme,25.340710951122148,"43, Rue du Simplon, Lausanne, District de Lausanne, Vaud, 1006, Schweiz/Suisse/Svizzera/Svizra","(46.5163403, 6.6276534)"
+345,agent de la sûreté,administration publique,136.44368179783203,"Rue des Deux-Marchés, Lausanne, District de Lausanne, Vaud, 1014, Schweiz/Suisse/Svizzera/Svizra","(46.5244057, 6.6336885)"
+346,tailleu.se,industrie textile,125.8389110748638,"Rue des Deux-Marchés 15 Lausanne, District de Lausanne, Vaud, Schweiz/Suisse/Svizzera/Svizra","(46.5153046383202, 6.650754813315448)"
+347,"veuve,",employées pour le ménage et la ferme,25.340710951122148,"13, Rue du Simplon, Lausanne, District de Lausanne, Vaud, 1006, Schweiz/Suisse/Svizzera/Svizra","(46.5156905, 6.6304468)"
+348,secrétaire au Jura,bureaux de consultation,128.42140391064694,"Rue Pré-du-Marché 2 Lausanne, District de Lausanne, Vaud, Schweiz/Suisse/Svizzera/Svizra","(46.53706726427095, 6.650438418620193)"
+349,employé au téléphoné,"agences,locations,consultations",134.28581472523783,"4, Chemin de Couvaloup, Lausanne, District de Lausanne, Vaud, 1005, Schweiz/Suisse/Svizzera/Svizra","(46.5246432, 6.6366694)"
+350,relieur,industrie du papier,134.7513920917939,"Rue des Deux-Marchés 15 Lausanne, District de Lausanne, Vaud, Schweiz/Suisse/Svizzera/Svizra","(46.51855644370355, 6.650754970008256)"
+351,employé deposte,"banques,établissements financiers",140.40483154283166,"3, Rue de l'Industrie, Lausanne, District de Lausanne, Vaud, 1014, Schweiz/Suisse/Svizzera/Svizra","(46.5257593, 6.6378561)"
+352,blanchisseuse,employées pour le ménage et la ferme,25.340710951122148,"Promenade de la Solitude, Lausanne, District de Lausanne, Vaud, 1005, Schweiz/Suisse/Svizzera/Svizra","(46.5218971, 6.6385195)"
+353,concierge,employées pour le ménage et la ferme,25.340710951122148,,
+354,horloger-électricien,horlogerie,124.70822318465623,"Espace Maurice Zundel, 19, Boulevard de Grancy, Lausanne, District de Lausanne, Vaud, 1006, Schweiz/Suisse/Svizzera/Svizra","(46.5150714, 6.6295087)"
+355,"pensionnaire,","employés pour tous,célibataires",34.4527251251477,"7, Rue du Grand-Chêne, Lausanne, District de Lausanne, Vaud, 1002, Schweiz/Suisse/Svizzera/Svizra","(46.5196155, 6.6308952)"
+356,demoiselle de magasin,commerce de détail,119.25431689071397,"3, Place du Nord, Lausanne, District de Lausanne, Vaud, 1014, Schweiz/Suisse/Svizzera/Svizra","(46.5260349, 6.6372457)"
+357,charcutier,produits alimentaires,130.76072894988488,,
+358,"manœuvre,","journaliers,entretien",1.8124261769503367,"11, Rue des Deux-Marchés, Lausanne, District de Lausanne, Vaud, 1005, Schweiz/Suisse/Svizzera/Svizra","(46.5248374, 6.6335722)"
+359,valet de chambre,employées pour le ménage et la ferme,25.340710951122148,"1, Boulevard de Grancy, Lausanne, District de Lausanne, Vaud, 1006, Schweiz/Suisse/Svizzera/Svizra","(46.514867, 6.631682)"
+360,Société de tempérance,"agences,locations,consultations",134.28581472523783,,
+361,rentière,"affaires immobilières,location",109.32383549904846,"Avenue du Théâtre, Lausanne, District de Lausanne, Vaud, 1003, Schweiz/Suisse/Svizzera/Svizra","(46.5190107, 6.6350823)"
+362,ménagère,employées pour le ménage et la ferme,25.340710951122148,"Escaliers du Marché 1 Lausanne, District de Lausanne, Vaud, Schweiz/Suisse/Svizzera/Svizra","(46.52212336280689, 6.63366635146757)"
+363,"domestique,",employées pour le ménage et la ferme,25.340710951122148,,
+364,typographe,arts graphiques,128.4993531694698,"15, Chemin du Vallon, La Clochatte, Grand-Mont, Le Mont-sur-Lausanne, District de Lausanne, Vaud, 1052, Schweiz/Suisse/Svizzera/Svizra","(46.5528392, 6.6382369)"
+365,tonnelier,"bois,liège,meubles",119.1878058383488,"Rue Etraz 10 Lausanne, District de Lausanne, Vaud, Schweiz/Suisse/Svizzera/Svizra","(46.53508386434358, 6.633565745747255)"
+366,journalier,"journaliers,entretien",1.8124261769503367,"11, Chemin de Martheray, Cheseaux-sur-Lausanne, District de Lausanne, Vaud, 1033, Schweiz/Suisse/Svizzera/Svizra","(46.5831643, 6.5962975)"
+367,marchande,commerce de détail,119.25431689071397,"Place du 14-Juin, Lausanne, District de Lausanne, Vaud, Schweiz/Suisse/Svizzera/Svizra","(46.5223443, 6.6307825)"
+368,"marchand forain', ', 17.",commerce de détail,119.25431689071397,,
+369,charpentier,"construction,charpenterie",122.18080319478057,"Rue du Tunnel 18 Lausanne, District de Lausanne, Vaud, Schweiz/Suisse/Svizzera/Svizra","(46.520277490895324, 6.633804066235668)"
+370,chauffeur,transports,122.2473142471457,"Rue de Bourg, Lausanne, District de Lausanne, Vaud, 1003, Schweiz/Suisse/Svizzera/Svizra","(46.520007, 6.6353026)"
+371,manœuvre.,"journaliers,entretien",1.8124261769503367,,
+372,cordonnier,"vêtements, lingerie,chaussures,literies",123.9766016086396,"Chemin de Martheray, Cheseaux-sur-Lausanne, District de Lausanne, Vaud, 1033, Schweiz/Suisse/Svizzera/Svizra","(46.582302, 6.5960197)"
+373,employé de commerce,commerce de détail,119.25431689071397,"15, Rue William-Haldimand, Lausanne, District de Lausanne, Vaud, 1003, Schweiz/Suisse/Svizzera/Svizra","(46.5221672, 6.6300527)"
+374,"domestique,",employées pour le ménage et la ferme,25.340710951122148,"Rue de Bourg, Lausanne, District de Lausanne, Vaud, 1003, Schweiz/Suisse/Svizzera/Svizra","(46.520007, 6.6353026)"
+375,ménagère,employées pour le ménage et la ferme,25.340710951122148,"Rue du Simplon 2 Lausanne, District de Lausanne, Vaud, Schweiz/Suisse/Svizzera/Svizra","(46.53033344335834, 6.616754093547011)"
+376,"employé retraité', 'J.-S.,",administration publique,136.44368179783203,"Rue Jenny-Enning, Lausanne, District de Lausanne, Vaud, 1005, Schweiz/Suisse/Svizzera/Svizra","(46.5201214, 6.6373874)"
+377,"employé,","employés pour tous,célibataires",34.4527251251477,"Rue Marterey 11 Lausanne, District de Lausanne, Vaud, Schweiz/Suisse/Svizzera/Svizra","(46.533631888437, 6.616715832567261)"
+378,"employépostal,",administration publique,136.44368179783203,"Rue Marterey 1 Lausanne, District de Lausanne, Vaud, Schweiz/Suisse/Svizzera/Svizra","(46.51513137719696, 6.617018721801991)"
+379,ménagère,employées pour le ménage et la ferme,25.340710951122148,"7, Rue Saint-Laurent, Lausanne, District de Lausanne, Vaud, 1003, Schweiz/Suisse/Svizzera/Svizra","(46.5223134, 6.6314715)"
+380,"employéJ.-S.,","employés pour tous,célibataires",34.4527251251477,"Rue Marterey 15 Lausanne, District de Lausanne, Vaud, Schweiz/Suisse/Svizzera/Svizra","(46.51340621475027, 6.617053644125739)"
+381,ébéniste,"bois,liège,meubles",119.1878058383488,"2, Rue du Maupas, Lausanne, District de Lausanne, Vaud, 1004, Schweiz/Suisse/Svizzera/Svizra","(46.5239181, 6.6274648)"
+382,manœuvre,"journaliers,entretien",1.8124261769503367,"Rue des Jardins 9 Lausanne, District de Lausanne, Vaud, Schweiz/Suisse/Svizzera/Svizra","(46.52594008152039, 6.616872823835156)"
+383,"Mâximilien', 'plâtrier","construction,charpenterie",122.18080319478057,"Rue des Deux-Marchés, Lausanne, District de Lausanne, Vaud, 1014, Schweiz/Suisse/Svizzera/Svizra","(46.5244057, 6.6336885)"
+384,serrurier,industrie des métaux,125.50635581303804,"Rue du Tunnel 9 Lausanne, District de Lausanne, Vaud, Schweiz/Suisse/Svizzera/Svizra","(46.52332059580625, 6.616977929694035)"
+385,fi.,"gaz,eau,éléctricité",138.27647786714684,,
+386,"domestique,', 'lieau-",employées pour le ménage et la ferme,25.340710951122148,,
+387,couturière,"vêtements, lingerie,chaussures,literies",123.9766016086396,"Rue Grand-Saint-Jean 2 Lausanne, District de Lausanne, Vaud, Schweiz/Suisse/Svizzera/Svizra","(46.51737707326006, 6.617202648066565)"
+387,couturière,"vêtements, lingerie,chaussures,literies",123.9766016086396,"Rue Grand-Saint-Jean 2 Lausanne, District de Lausanne, Vaud, Schweiz/Suisse/Svizzera/Svizra","(46.532871362846336, 6.617000814509096)"
+388,ménagère,employées pour le ménage et la ferme,25.340710951122148,"Avenue d'Ouchy, Lausanne, District de Lausanne, Vaud, 1006, Schweiz/Suisse/Svizzera/Svizra","(46.5129699, 6.6302553)"
+389,serrurier,industrie des métaux,125.50635581303804,"Rue Grand-Saint-Jean, Lausanne, District de Lausanne, Vaud, 1003, Schweiz/Suisse/Svizzera/Svizra","(46.5213634, 6.6315616)"
+390,boucher,produits alimentaires,130.76072894988488,"7, Rue Neuve, Lausanne, District de Lausanne, Vaud, 1003, Schweiz/Suisse/Svizzera/Svizra","(46.5233056, 6.6305546)"
+391,cuisinière,"hôtellerie,restauration",96.39725007759232,"27, Rue de la Borde, Lausanne, District de Lausanne, Vaud, 1018, Schweiz/Suisse/Svizzera/Svizra","(46.5291289, 6.6319908)"
+392,"garçon d'office"", 'luciiy","employés pour tous,célibataires",34.4527251251477,,
+393,juge fédéral,administration publique,136.44368179783203,"Avenue de la Gare 18 Lausanne, District de Lausanne, Vaud, Schweiz/Suisse/Svizzera/Svizra","(46.516584941556125, 6.617246337602767)"
+394,tailleur,"vêtements, lingerie,chaussures,literies",123.9766016086396,"Rue Grand-Saint-Jean 2 Lausanne, District de Lausanne, Vaud, Schweiz/Suisse/Svizzera/Svizra","(46.51737707326006, 6.617202648066565)"
+394,tailleur,"vêtements, lingerie,chaussures,literies",123.9766016086396,"Rue Grand-Saint-Jean 2 Lausanne, District de Lausanne, Vaud, Schweiz/Suisse/Svizzera/Svizra","(46.532871362846336, 6.617000814509096)"
+395,cafetier,"hôtellerie,restauration",96.39725007759232,"Rue Marterey 7 Lausanne, District de Lausanne, Vaud, Schweiz/Suisse/Svizzera/Svizra","(46.51937075046616, 6.61730557963732)"
+396,"employéJ.-S.,","employés pour tous,célibataires",34.4527251251477,,
+397,couturière,"vêtements, lingerie,chaussures,literies",123.9766016086396,,
+398,cuisinière,"hôtellerie,restauration",96.39725007759232,,
+399,mécanicienJ.-S.. pl,industrie des métaux,125.50635581303804,"Saint Laurent, Place du 14-Juin, Lausanne, District de Lausanne, Vaud, 1003, Schweiz/Suisse/Svizzera/Svizra","(46.5223967, 6.6311529)"
+400,jardinier,"journaliers,entretien",1.8124261769503367,,
+401,charron,"construction,charpenterie",122.18080319478057,,
+402,café-chocolat,produits alimentaires,130.76072894988488,"Rue Grand-Saint-Jean 21 Lausanne, District de Lausanne, Vaud, Schweiz/Suisse/Svizzera/Svizra","(46.541070120128616, 6.641301980690555)"
+403,plâtrier,"construction,charpenterie",122.18080319478057,"Promenade de la Solitude, Lausanne, District de Lausanne, Vaud, 1005, Schweiz/Suisse/Svizzera/Svizra","(46.5218971, 6.6385195)"
+404,horloger,horlogerie,124.70822318465623,"9, Place de la Palud, Lausanne, District de Lausanne, Vaud, 1003, Schweiz/Suisse/Svizzera/Svizra","(46.5221487, 6.6323185)"
+405,femme de chambre,employées pour le ménage et la ferme,25.340710951122148,,
+406,allumeurde gaz,"gaz,eau,éléctricité",138.27647786714684,,
+407,"veuve,",employées pour le ménage et la ferme,25.340710951122148,"Palud, Place de la Palud, Lausanne, District de Lausanne, Vaud, 1003, Schweiz/Suisse/Svizzera/Svizra","(46.5220834, 6.6329249)"
+408,ménagère,employées pour le ménage et la ferme,25.340710951122148,"Avenue de Montoie 8 Lausanne, District de Lausanne, Vaud, Schweiz/Suisse/Svizzera/Svizra","(46.52143826737463, 6.609125152766858)"
+409,"étudiant,","employés pour tous,célibataires",34.4527251251477,"Rue Cité-Devant, Lausanne, District de Lausanne, Vaud, 1014, Schweiz/Suisse/Svizzera/Svizra","(46.523581, 6.6352987)"
+410,employé de commerce,commerce de détail,119.25431689071397,"Promenade de la Solitude, Lausanne, District de Lausanne, Vaud, 1005, Schweiz/Suisse/Svizzera/Svizra","(46.5218971, 6.6385195)"
+411,boulanger,produits alimentaires,130.76072894988488,"Rue du Maupas, Lausanne, District de Lausanne, Vaud, 1002, Schweiz/Suisse/Svizzera/Svizra","(46.5240407, 6.6269404)"
+412,"domestique,",employées pour le ménage et la ferme,25.340710951122148,,
+413,repasseuse,industrie textile,125.8389110748638,"11, Chemin du Vallon, La Clochatte, Grand-Mont, Le Mont-sur-Lausanne, District de Lausanne, Vaud, 1052, Schweiz/Suisse/Svizzera/Svizra","(46.5527231, 6.6379673)"
+414,cocher,réparations,107.18023088142006,"14, Rue Grand-Saint-Jean, Lausanne, District de Lausanne, Vaud, 1003, Schweiz/Suisse/Svizzera/Svizra","(46.5215087, 6.6314425)"
+415,cocher,réparations,107.18023088142006,"Rue Marterey 38 Lausanne, District de Lausanne, Vaud, Schweiz/Suisse/Svizzera/Svizra","(46.51781272881853, 6.632908204545625)"
+416,voiturier,transports,122.2473142471457,"Rue Saint-Laurent 9 Lausanne, District de Lausanne, Vaud, Schweiz/Suisse/Svizzera/Svizra","(46.5406431837005, 6.632610418641519)"
+417,"domestique,",employées pour le ménage et la ferme,25.340710951122148,"Chalet-à-Gobet, Lausanne, District de Lausanne, Vaud, 1000, Schweiz/Suisse/Svizzera/Svizra","(46.5639967, 6.6928679)"
+418,menuisier,"bois,liège,meubles",119.1878058383488,"Rue des Jardins 9 Lausanne, District de Lausanne, Vaud, Schweiz/Suisse/Svizzera/Svizra","(46.5287570279957, 6.632827019885252)"
+419,couvreur,"construction,charpenterie",122.18080319478057,"Rue Marterey 21 Lausanne, District de Lausanne, Vaud, Schweiz/Suisse/Svizzera/Svizra","(46.51155854764473, 6.6331602496263375)"
+420,"employé,","employés pour tous,célibataires",34.4527251251477,"Rue de la Pontaise 41 Lausanne, District de Lausanne, Vaud, Schweiz/Suisse/Svizzera/Svizra","(46.5184133728017, 6.633080889065488)"
+421,épicier,commerce de détail,119.25431689071397,"2, Rue du Midi, Lausanne, District de Lausanne, Vaud, 1003, Schweiz/Suisse/Svizzera/Svizra","(46.5186672, 6.6316723)"
+422,ouvrierde ville,"journaliers,entretien",1.8124261769503367,"18, Rue Cité-Derrière, Lausanne, District de Lausanne, Vaud, 1005, Schweiz/Suisse/Svizzera/Svizra","(46.5234938, 6.6364199)"
+423,cafetier,"hôtellerie,restauration",96.39725007759232,,
+424,maréchal,réparations,107.18023088142006,"Rue Marterey 7 Lausanne, District de Lausanne, Vaud, Schweiz/Suisse/Svizzera/Svizra","(46.579816030169695, 6.609947392284735)"
+425,femme de chambre,employées pour le ménage et la ferme,25.340710951122148,,
+426,marbrier,pierre et terre,129.4305079025819,"Rue Saint-Martin 12 Lausanne, District de Lausanne, Vaud, Schweiz/Suisse/Svizzera/Svizra","(46.52578343237007, 6.611955397638239)"
+427,tapissier,"bois,liège,meubles",119.1878058383488,"Lausanne, District de Lausanne, Vaud, Schweiz/Suisse/Svizzera/Svizra","(46.5218269, 6.6327025)"
+428,"journalier,","journaliers,entretien",1.8124261769503367,"4, Quai d'Ouchy, Lausanne, District de Lausanne, Vaud, 1006, Schweiz/Suisse/Svizzera/Svizra","(46.5064023, 6.6362113)"
+429,chauffeur,transports,122.2473142471457,"3, Chemin du Bugnon, Bussigny, District de l'Ouest lausannois, Vaud, 1030, Schweiz/Suisse/Svizzera/Svizra","(46.554276, 6.5588573)"
+430,boulanger,produits alimentaires,130.76072894988488,,
+431,mécanicien,industrie des métaux,125.50635581303804,,
+432,couturière,"vêtements, lingerie,chaussures,literies",123.9766016086396,"17, Rue Caroline, Lausanne, District de Lausanne, Vaud, 1005, Schweiz/Suisse/Svizzera/Svizra","(46.5212504, 6.6382707)"
+433,ménagère,employées pour le ménage et la ferme,25.340710951122148,"26, Boulevard de Grancy, Lausanne, District de Lausanne, Vaud, 1006, Schweiz/Suisse/Svizzera/Svizra","(46.5157387, 6.6286724)"
+434,négociant,commerce de gros,126.9030879127062,,
+435,"journalière,","journalières,entretien",1.376778783958605,,
+436,"manœuvre,","journaliers,entretien",1.8124261769503367,,
+437,broderies,arts graphiques,128.4993531694698,,
+438,mécanicien,industrie des métaux,125.50635581303804,"Passage des Jumelles, Lausanne, District de Lausanne, Vaud, 1001, Schweiz/Suisse/Svizzera/Svizra","(46.5222568, 6.6274612)"
+439,rentière,"affaires immobilières,location",109.32383549904846,"Rue Saint-Pierre 1 Lausanne, District de Lausanne, Vaud, Schweiz/Suisse/Svizzera/Svizra","(46.52182199183501, 6.634922114008152)"
+439,rentière,"affaires immobilières,location",109.32383549904846,"Rue Saint-Pierre 1 Lausanne, District de Lausanne, Vaud, Schweiz/Suisse/Svizzera/Svizra","(46.527287941423694, 6.617463350203691)"
+439,rentière,"affaires immobilières,location",109.32383549904846,"Rue Saint-Pierre 1 Lausanne, District de Lausanne, Vaud, Schweiz/Suisse/Svizzera/Svizra","(46.525730241344085, 6.616256136684088)"
+440,"employé,","employés pour tous,célibataires",34.4527251251477,,
+441,manœuvre.,"journaliers,entretien",1.8124261769503367,"6, Place du Vallon, Lausanne, District de Lausanne, Vaud, 1011, Schweiz/Suisse/Svizzera/Svizra","(46.5269189, 6.6397464)"
+442,courtier,"agences,locations,consultations",134.28581472523783,"8, Rue Madeleine, Lausanne, District de Lausanne, Vaud, 1003, Schweiz/Suisse/Svizzera/Svizra","(46.5223807, 6.6332073)"
+443,marchandforain,commerce de détail,119.25431689071397,,
+444,", Pontaise.","journalières,entretien",1.376778783958605,"9, Avenue des Oiseaux, Lausanne, District de Lausanne, Vaud, 1018, Schweiz/Suisse/Svizzera/Svizra","(46.5319482, 6.6292482)"
+445,femme de chambre,employées pour le ménage et la ferme,25.340710951122148,,
+446,rentier,"affaires immobilières,location",109.32383549904846,,
+447,"étudiant,","employés pour tous,célibataires",34.4527251251477,"Rue des Oliviers 5 Lausanne, District de Lausanne, Vaud, Schweiz/Suisse/Svizzera/Svizra","(46.53299178729046, 6.616287136953567)"
+448,"domestique,",employées pour le ménage et la ferme,25.340710951122148,"Rue du Maupas 38 Lausanne, District de Lausanne, Vaud, Schweiz/Suisse/Svizzera/Svizra","(46.5198316609014, 6.6165386709813685)"
+449,maçon,"construction,charpenterie",122.18080319478057,"Plantage du Vallon A, Lausanne, District de Lausanne, Vaud, Schweiz/Suisse/Svizzera/Svizra","(46.5263663, 6.6369168)"
+450,casseur de pierresLa,pierre et terre,129.4305079025819,,
+451,"sculpt', 'sur bois","bois,liège,meubles",119.1878058383488,"Chemin des Epinettes 3 Lausanne, District de Lausanne, Vaud, Schweiz/Suisse/Svizzera/Svizra","(46.518865872192734, 6.616620068912893)"
+452,serrurier,industrie des métaux,125.50635581303804,"Rue des Deux-Marchés, Lausanne, District de Lausanne, Vaud, 1014, Schweiz/Suisse/Svizzera/Svizra","(46.5244057, 6.6336885)"
+453,maçon,"construction,charpenterie",122.18080319478057,"13, Place de la Palud, Lausanne, District de Lausanne, Vaud, 1003, Schweiz/Suisse/Svizzera/Svizra","(46.5224666, 6.6322972)"
+454,typographe,arts graphiques,128.4993531694698,"Rue du Bugnon 8 Lausanne, District de Lausanne, Vaud, Schweiz/Suisse/Svizzera/Svizra","(46.51249962446508, 6.616725881203964)"
+454,typographe,arts graphiques,128.4993531694698,"Rue du Bugnon 8 Lausanne, District de Lausanne, Vaud, Schweiz/Suisse/Svizzera/Svizra","(46.5246835925176, 6.647145247983914)"
+455,typographe,arts graphiques,128.4993531694698,"Rue de la Pontaise 13 Lausanne, District de Lausanne, Vaud, Schweiz/Suisse/Svizzera/Svizra","(46.53043077923094, 6.616455825815865)"
+456,huissier du préfet,administration publique,136.44368179783203,"9, Rue du Jura, Lausanne, District de Lausanne, Vaud, 1002, Schweiz/Suisse/Svizzera/Svizra","(46.5251674, 6.6238783)"
+457,charcutier,produits alimentaires,130.76072894988488,"Église Saint-Pierre, 13, Rue du Jura, Bussigny, District de l'Ouest lausannois, Vaud, 1030, Schweiz/Suisse/Svizzera/Svizra","(46.5532019, 6.5508708)"
+458,"domestique,",employées pour le ménage et la ferme,25.340710951122148,"13, Rue du Maupas, Lausanne, District de Lausanne, Vaud, 1004, Schweiz/Suisse/Svizzera/Svizra","(46.5244758, 6.6255741)"
+459,voyageurde commerce,commerce de gros,126.9030879127062,"15, Boulevard de Grancy, Lausanne, District de Lausanne, Vaud, 1006, Schweiz/Suisse/Svizzera/Svizra","(46.5150705, 6.6301182)"
+460,rentière,"affaires immobilières,location",109.32383549904846,"Rue Grand-Saint-Jean, Lausanne, District de Lausanne, Vaud, 1003, Schweiz/Suisse/Svizzera/Svizra","(46.5213634, 6.6315616)"
+461,employé postal,administration publique,136.44368179783203,"15, Boulevard de Grancy, Lausanne, District de Lausanne, Vaud, 1006, Schweiz/Suisse/Svizzera/Svizra","(46.5150705, 6.6301182)"
+462,"chaull'eurJ.-S.,",réparations,107.18023088142006,"Rue du Simplon 8 Lausanne, District de Lausanne, Vaud, Schweiz/Suisse/Svizzera/Svizra","(46.53465023926813, 6.616392088523287)"
+463,commis postal,administration publique,136.44368179783203,,
+464,évangéliste,"agences,locations,consultations",134.28581472523783,"Promenade de la Solitude, Lausanne, District de Lausanne, Vaud, 1005, Schweiz/Suisse/Svizzera/Svizra","(46.5218971, 6.6385195)"
+465,employé de commerce,commerce de détail,119.25431689071397,"58, Boulevard de Grancy, Lausanne, District de Lausanne, Vaud, 1006, Schweiz/Suisse/Svizzera/Svizra","(46.5166804, 6.6253695)"
+466,lille de chambre,employées pour le ménage et la ferme,25.340710951122148,"5, Boulevard de Grancy, Lausanne, District de Lausanne, Vaud, 1006, Schweiz/Suisse/Svizzera/Svizra","(46.514927, 6.6310565)"
+467,"manœuvre,","journaliers,entretien",1.8124261769503367,,
+468,agriculteur,employées pour le ménage et la ferme,25.340710951122148,,
+469,rentière,"affaires immobilières,location",109.32383549904846,"Rue Grand-Saint-Jean 19 Lausanne, District de Lausanne, Vaud, Schweiz/Suisse/Svizzera/Svizra","(46.519778977213015, 6.616158542293136)"
+470,couturière,"vêtements, lingerie,chaussures,literies",123.9766016086396,"Rue Saint-Laurent 9 Lausanne, District de Lausanne, Vaud, Schweiz/Suisse/Svizzera/Svizra","(46.513118315901735, 6.616306742785232)"
+471,serrurier,industrie des métaux,125.50635581303804,,
+472,pharmacien,industrie chimique,144.86107205129667,"26, Boulevard de Grancy, Lausanne, District de Lausanne, Vaud, 1006, Schweiz/Suisse/Svizzera/Svizra","(46.5157387, 6.6286724)"
+473,fermier,employées pour le ménage et la ferme,25.340710951122148,,
+474,"manœuvre,","journaliers,entretien",1.8124261769503367,,
+475,bureaude poste,"agences,locations,consultations",134.28581472523783,"Vennes, Route de Berne, Lausanne, District de Lausanne, Vaud, 1010, Schweiz/Suisse/Svizzera/Svizra","(46.5412298, 6.6575976)"
+476,"ancien employé', 'J.-S.,","employés pour tous,célibataires",34.4527251251477,"58, Boulevard de Grancy, Lausanne, District de Lausanne, Vaud, 1006, Schweiz/Suisse/Svizzera/Svizra","(46.5166804, 6.6253695)"
+477,charcutier,produits alimentaires,130.76072894988488,"13, Rue des Deux-Marchés, Lausanne, District de Lausanne, Vaud, 1014, Schweiz/Suisse/Svizzera/Svizra","(46.5249479, 6.6337659)"
+478,menuisier,"bois,liège,meubles",119.1878058383488,"Rue Saint-Etienne, Lausanne, District de Lausanne, Vaud, 1003, Schweiz/Suisse/Svizzera/Svizra","(46.5219957, 6.6351327)"
+479,Ma Pensée,"agences,locations,consultations",134.28581472523783,"Avenue de Morges 9 Lausanne, District de Lausanne, Vaud, Schweiz/Suisse/Svizzera/Svizra","(46.53776699781591, 6.634108970627886)"
+480,charretier,transports,122.2473142471457,"Rue du Maupas 36b Lausanne, District de Lausanne, Vaud, Schweiz/Suisse/Svizzera/Svizra","(46.52676611600703, 6.625768639693789)"
+481,"inspecteurJ.-S.,",administration publique,136.44368179783203,,
+482,couturière,"vêtements, lingerie,chaussures,literies",123.9766016086396,,
+483,bûcheron,"bois,liège,meubles",119.1878058383488,,
+484,couturière,"vêtements, lingerie,chaussures,literies",123.9766016086396,"12, Rue Madeleine, Lausanne, District de Lausanne, Vaud, 1003, Schweiz/Suisse/Svizzera/Svizra","(46.522537, 6.6331483)"
+485,"domestique,",employées pour le ménage et la ferme,25.340710951122148,"Rue Saint-Laurent 23 Lausanne, District de Lausanne, Vaud, Schweiz/Suisse/Svizzera/Svizra","(46.51868272671227, 6.626020470267697)"
+486,boucher,produits alimentaires,130.76072894988488,"2, Rue de la Louve, Lausanne, District de Lausanne, Vaud, 1003, Schweiz/Suisse/Svizzera/Svizra","(46.5222142, 6.6317659)"
+487,doffiesti,industrie textile,125.8389110748638,"Avenue de la Gare, Lausanne, District de Lausanne, Vaud, 1006, Schweiz/Suisse/Svizzera/Svizra","(46.5169726, 6.6343444)"
+488,"manœuvre,","journaliers,entretien",1.8124261769503367,"Rue Saint-Laurent 21 Lausanne, District de Lausanne, Vaud, Schweiz/Suisse/Svizzera/Svizra","(46.52496773698022, 6.617952579039432)"
+489,tailleur de pierres,pierre et terre,129.4305079025819,"Rue du Tunnel 16 Lausanne, District de Lausanne, Vaud, Schweiz/Suisse/Svizzera/Svizra","(46.52687293104163, 6.61794786778163)"
+490,"manœuvre,","journaliers,entretien",1.8124261769503367,,
+491,meunier,industrie du papier,134.7513920917939,,
+492,"domestique,",employées pour le ménage et la ferme,25.340710951122148,"Rue William-Haldimand 12 Lausanne, District de Lausanne, Vaud, Schweiz/Suisse/Svizzera/Svizra","(46.51288813316286, 6.618210024922821)"
+493,ménag,employées pour le ménage et la ferme,25.340710951122148,"45, Rue du Valentin, Lausanne, District de Lausanne, Vaud, 1002, Schweiz/Suisse/Svizzera/Svizra","(46.5258836, 6.63099)"
+494,mécanicien,industrie des métaux,125.50635581303804,"39, Rue de la Borde, Lausanne, District de Lausanne, Vaud, 1018, Schweiz/Suisse/Svizzera/Svizra","(46.5303326, 6.631494)"
+495,chaudronnier,industrie des métaux,125.50635581303804,"Rue Saint-Roch, Lausanne, District de Lausanne, Vaud, 1002, Schweiz/Suisse/Svizzera/Svizra","(46.52465, 6.6277385)"
+496,"domestique,",employées pour le ménage et la ferme,25.340710951122148,"Rue Neuve 3 Lausanne, District de Lausanne, Vaud, Schweiz/Suisse/Svizzera/Svizra","(46.527659410831376, 6.61530133964957)"
+497,rentière,"affaires immobilières,location",109.32383549904846,"Avenue du Théâtre, Lausanne, District de Lausanne, Vaud, 1003, Schweiz/Suisse/Svizzera/Svizra","(46.5190107, 6.6350823)"
+498,"domestique,",employées pour le ménage et la ferme,25.340710951122148,"10, Rue Jenny-Enning, Lausanne, District de Lausanne, Vaud, 1003, Schweiz/Suisse/Svizzera/Svizra","(46.5200556, 6.6376787)"
+499,valet dechambre,"employés pour tous,célibataires",34.4527251251477,,
+500,Banque de prêts,"banques,établissements financiers",140.40483154283166,"Ruelle Grand-Saint-Jean 1 Lausanne, District de Lausanne, Vaud, Schweiz/Suisse/Svizzera/Svizra","(46.5171177702207, 6.615569425967512)"
+501,contremaître maçon,"construction,charpenterie",122.18080319478057,"19, Rue Grand-Saint-Jean, Lausanne, District de Lausanne, Vaud, 1003, Schweiz/Suisse/Svizzera/Svizra","(46.5213384, 6.6312813)"
