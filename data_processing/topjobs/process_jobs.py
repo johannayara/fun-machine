@@ -18,7 +18,9 @@ def process_job_data(input_file, output_file, top_n=20):
     print(f"Saved top {top_n} jobs to {output_file}")
 
 # Process both years
-process_job_data('final_table_1901_clf.csv', 'top_jobs1901.csv', top_n=50)
-process_job_data('final_table_1923_clf.csv', 'top_jobs1923.csv', top_n=50)
-process_job_data('data/table_1951.csv', 'top_jobs1951.csv', top_n=50)
-process_job_data('final_table_1885_clf.csv', 'top_jobs1885.csv', top_n=50)
+import os
+print(os.listdir('../../data'))
+#process_job_data('final_table_1901_clf.csv', 'top_jobs1901.csv', top_n=50)
+process_job_data('../../data/table_1923_clf_v2.csv', '../../topjobs/top_jobs1923.csv', top_n=50)
+#process_job_data('data/table_1951.csv', 'top_jobs1951.csv', top_n=50)
+#process_job_data('final_table_1885_clf.csv', 'top_jobs1885.csv', top_n=50)
