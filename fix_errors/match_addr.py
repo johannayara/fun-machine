@@ -10,7 +10,7 @@ all_addresses_df = pd.read_csv("lausanne_addresses.csv")
 def correct_geocoding(error_file_name):
     error_file = os.path.join("../geocoding/errors", error_file_name)
 
-    mistyped_df = pd.read_csv(error_file)  
+    mistyped_df = pd.read_csv(error_file, index_col=0)  
 
     # Extract list of correct addresses
     all_addresses = all_addresses_df["address"].dropna().tolist()
