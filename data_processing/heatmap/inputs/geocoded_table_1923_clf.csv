@@ -1,4 +1,4 @@
-LOC,JOB,job_clf,salaire,POS,COOR
+LOC,job,job_clf,salaire,POS,COOR
 Fraisse 8,maçon,"construction,charpenterie",394.1816187637103,"8, Avenue William-Fraisse, Lausanne, District de Lausanne, Vaud, 1001, Schweiz/Suisse/Svizzera/Svizra","(46.5159931, 6.6255561)"
 Maupas 23bis,margeuse,industrie textile,405.9834636368753,"23bis, Rue du Maupas, Lausanne, District de Lausanne, Vaud, 1002, Schweiz/Suisse/Svizzera/Svizra","(46.5243268, 6.6246218)"
 Mar-theray 34,maçon,"construction,charpenterie",394.1816187637103,,
