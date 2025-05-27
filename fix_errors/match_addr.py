@@ -31,13 +31,14 @@ def correct_geocoding(error_file_name):
     rate = good_match.shape[0]/mistyped_df.shape[0]
     print(f"good match rate : {rate}")
     # Append Lausanne-specific suffix to best matches
-    good_match["best_match"] = good_match["best_match"] + " Lausanne, District de Lausanne, Vaud, Schweiz/Suisse/Svizzera/Svizra"
 
     # Merge coordinates using the best matched address
     all_addresses_df['COOR'] = list(zip(all_addresses_df['latitude'], all_addresses_df['longitude']))
-    good_match = pd.concat([good_match, all_addresses_df["COOR"]], axis= 1)
+    good_match = good_match.merge(all_addresses_df, left_on='best_match', right_on='address', how='left')
+    good_match["best_match"] = good_match["best_match"] + " Lausanne, District de Lausanne, Vaud, Schweiz/Suisse/Svizzera/Svizra"
+    
     # Drop unnecessary columns and rename
-    good_match.drop(columns=["ERROR", "match_score"], errors='ignore', inplace=True)
+    good_match.drop(columns=["ERROR", "match_score", "latitude", "longitude", "address"], errors='ignore', inplace=True)
     good_match.rename(columns={"LOC": "mistyped_loc","best_match": "LOC"}, inplace=True)
 
     # Save result
